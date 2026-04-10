@@ -1,15 +1,9 @@
 {
   "metadata": {
-    "version": 1,
-    "last_sync": "2026-04-10T08:04:24.347Z"
+    "version": "1.0.0",
+    "last_sync": "2026-04-10T15:32:59.392Z"
   },
   "season_config": [
-    {
-      "display name": "Daily",
-      "season": "Daily",
-      "start_date": "",
-      "end_date": ""
-    },
     {
       "display name": "Winter Frost Season",
       "season": "Winter",
@@ -26,6 +20,7 @@
   "collections": {
     "fish": [
       {
+        "rank": 1,
         "id": "f_001",
         "name_en": "European Perch",
         "level_req": 1,
@@ -41,6 +36,7 @@
         "notes": ""
       },
       {
+        "rank": 2,
         "id": "f_002",
         "name_en": "Edible Frog",
         "level_req": 3,
@@ -56,6 +52,7 @@
         "notes": "Mermaid Attractor Required"
       },
       {
+        "rank": 3,
         "id": "f_003",
         "name_en": "Common Chub",
         "level_req": 1,
@@ -71,6 +68,7 @@
         "notes": ""
       },
       {
+        "rank": 4,
         "id": "f_004",
         "name_en": "Spined Loach",
         "level_req": 1,
@@ -86,6 +84,7 @@
         "notes": ""
       },
       {
+        "rank": 5,
         "id": "f_005",
         "name_en": "Barbel",
         "level_req": 1,
@@ -101,6 +100,7 @@
         "notes": ""
       },
       {
+        "rank": 6,
         "id": "f_006",
         "name_en": "Streber",
         "level_req": 3,
@@ -116,6 +116,7 @@
         "notes": ""
       },
       {
+        "rank": 7,
         "id": "f_007",
         "name_en": "Minnow",
         "level_req": 1,
@@ -131,6 +132,7 @@
         "notes": ""
       },
       {
+        "rank": 8,
         "id": "f_008",
         "name_en": "Tilapia",
         "level_req": 3,
@@ -146,6 +148,7 @@
         "notes": "Mermaid Attractor Required"
       },
       {
+        "rank": 9,
         "id": "f_009",
         "name_en": "Tench",
         "level_req": 1,
@@ -161,6 +164,7 @@
         "notes": ""
       },
       {
+        "rank": 10,
         "id": "f_010",
         "name_en": "Common Whitefish",
         "level_req": 1,
@@ -176,6 +180,7 @@
         "notes": ""
       },
       {
+        "rank": 11,
         "id": "f_011",
         "name_en": "Crucian Carp",
         "level_req": 1,
@@ -191,6 +196,7 @@
         "notes": ""
       },
       {
+        "rank": 12,
         "id": "f_012",
         "name_en": "Common Bleak",
         "level_req": 1,
@@ -206,6 +212,7 @@
         "notes": ""
       },
       {
+        "rank": 13,
         "id": "f_013",
         "name_en": "Schneider",
         "level_req": 1,
@@ -221,6 +228,7 @@
         "notes": ""
       },
       {
+        "rank": 14,
         "id": "f_014",
         "name_en": "Oriental Shrimp",
         "level_req": 1,
@@ -236,6 +244,7 @@
         "notes": ""
       },
       {
+        "rank": 15,
         "id": "f_015",
         "name_en": "Sardine",
         "level_req": 1,
@@ -251,6 +260,7 @@
         "notes": ""
       },
       {
+        "rank": 16,
         "id": "f_016",
         "name_en": "Sea Bass",
         "level_req": 1,
@@ -266,6 +276,7 @@
         "notes": ""
       },
       {
+        "rank": 17,
         "id": "f_017",
         "name_en": "Skipjack Tuna",
         "level_req": 1,
@@ -281,6 +292,7 @@
         "notes": ""
       },
       {
+        "rank": 18,
         "id": "f_018",
         "name_en": "Beltfish",
         "level_req": 1,
@@ -296,6 +308,7 @@
         "notes": ""
       },
       {
+        "rank": 19,
         "id": "f_019",
         "name_en": "Common Prawn",
         "level_req": 1,
@@ -311,6 +324,7 @@
         "notes": ""
       },
       {
+        "rank": 20,
         "id": "f_020",
         "name_en": "Scad",
         "level_req": 1,
@@ -326,6 +340,7 @@
         "notes": ""
       },
       {
+        "rank": 21,
         "id": "f_021",
         "name_en": "Rabbit Fish",
         "level_req": 4,
@@ -341,6 +356,7 @@
         "notes": "Mermaid Attractor Required"
       },
       {
+        "rank": 22,
         "id": "f_022",
         "name_en": "Sea Stickleback",
         "level_req": 1,
@@ -356,6 +372,7 @@
         "notes": ""
       },
       {
+        "rank": 23,
         "id": "f_023",
         "name_en": "Striped Red Mullet",
         "level_req": 1,
@@ -371,6 +388,7 @@
         "notes": ""
       },
       {
+        "rank": 24,
         "id": "f_024",
         "name_en": "Stone Loach",
         "level_req": 2,
@@ -386,6 +404,7 @@
         "notes": ""
       },
       {
+        "rank": 25,
         "id": "f_025",
         "name_en": "Mud Sunfish",
         "level_req": 3,
@@ -401,6 +420,7 @@
         "notes": ""
       },
       {
+        "rank": 26,
         "id": "f_026",
         "name_en": "European Smelt",
         "level_req": 1,
@@ -416,6 +436,7 @@
         "notes": ""
       },
       {
+        "rank": 27,
         "id": "f_027",
         "name_en": "Ruffe",
         "level_req": 3,
@@ -431,6 +452,7 @@
         "notes": ""
       },
       {
+        "rank": 28,
         "id": "f_028",
         "name_en": "False Scad",
         "level_req": 2,
@@ -446,6 +468,7 @@
         "notes": ""
       },
       {
+        "rank": 29,
         "id": "f_029",
         "name_en": "Seahorse",
         "level_req": 1,
@@ -461,6 +484,7 @@
         "notes": ""
       },
       {
+        "rank": 30,
         "id": "f_030",
         "name_en": "Anglerfish",
         "level_req": 2,
@@ -476,6 +500,7 @@
         "notes": ""
       },
       {
+        "rank": 31,
         "id": "f_079",
         "name_en": "Mussel",
         "level_req": 4,
@@ -491,6 +516,7 @@
         "notes": ""
       },
       {
+        "rank": 32,
         "id": "f_031",
         "name_en": "Zander",
         "level_req": 3,
@@ -506,6 +532,7 @@
         "notes": ""
       },
       {
+        "rank": 33,
         "id": "f_032",
         "name_en": "Tadpole",
         "level_req": 3,
@@ -521,6 +548,7 @@
         "notes": ""
       },
       {
+        "rank": 34,
         "id": "f_033",
         "name_en": "European Crayfish",
         "level_req": 3,
@@ -536,6 +564,7 @@
         "notes": ""
       },
       {
+        "rank": 35,
         "id": "f_034",
         "name_en": "Common Octopus",
         "level_req": 2,
@@ -551,6 +580,7 @@
         "notes": ""
       },
       {
+        "rank": 36,
         "id": "f_035",
         "name_en": "Atlantic Salmon",
         "level_req": 3,
@@ -566,6 +596,7 @@
         "notes": ""
       },
       {
+        "rank": 37,
         "id": "f_036",
         "name_en": "Atlantic Pygmy Octopus",
         "level_req": 2,
@@ -581,6 +612,7 @@
         "notes": ""
       },
       {
+        "rank": 38,
         "id": "f_037",
         "name_en": "Hermit Crab",
         "level_req": 3,
@@ -596,6 +628,7 @@
         "notes": ""
       },
       {
+        "rank": 39,
         "id": "f_038",
         "name_en": "Clownfish",
         "level_req": 3,
@@ -611,6 +644,7 @@
         "notes": ""
       },
       {
+        "rank": 40,
         "id": "f_039",
         "name_en": "Largemouth Bass",
         "level_req": 4,
@@ -626,6 +660,7 @@
         "notes": ""
       },
       {
+        "rank": 41,
         "id": "f_040",
         "name_en": "Common Carp",
         "level_req": 4,
@@ -641,6 +676,7 @@
         "notes": ""
       },
       {
+        "rank": 42,
         "id": "f_041",
         "name_en": "Burbot",
         "level_req": 4,
@@ -656,6 +692,7 @@
         "notes": ""
       },
       {
+        "rank": 43,
         "id": "f_042",
         "name_en": "Goby",
         "level_req": 4,
@@ -671,6 +708,7 @@
         "notes": ""
       },
       {
+        "rank": 44,
         "id": "f_043",
         "name_en": "River Crab",
         "level_req": 4,
@@ -686,6 +724,7 @@
         "notes": ""
       },
       {
+        "rank": 45,
         "id": "f_044",
         "name_en": "Turbot",
         "level_req": 4,
@@ -701,6 +740,7 @@
         "notes": ""
       },
       {
+        "rank": 46,
         "id": "f_045",
         "name_en": "European Plaice",
         "level_req": 4,
@@ -716,6 +756,7 @@
         "notes": ""
       },
       {
+        "rank": 47,
         "id": "f_046",
         "name_en": "Red-Bellied Piranha",
         "level_req": 4,
@@ -731,6 +772,7 @@
         "notes": ""
       },
       {
+        "rank": 48,
         "id": "f_047",
         "name_en": "Butterfly Koi",
         "level_req": 4,
@@ -746,6 +788,7 @@
         "notes": ""
       },
       {
+        "rank": 49,
         "id": "f_048",
         "name_en": "Freshwater Blenny",
         "level_req": 5,
@@ -761,6 +804,7 @@
         "notes": ""
       },
       {
+        "rank": 50,
         "id": "f_049",
         "name_en": "Trout",
         "level_req": 5,
@@ -776,6 +820,7 @@
         "notes": ""
       },
       {
+        "rank": 51,
         "id": "f_050",
         "name_en": "Common Rudd",
         "level_req": 5,
@@ -791,6 +836,7 @@
         "notes": ""
       },
       {
+        "rank": 52,
         "id": "f_051",
         "name_en": "Atlantic Mackerel",
         "level_req": 5,
@@ -806,6 +852,7 @@
         "notes": ""
       },
       {
+        "rank": 53,
         "id": "f_052",
         "name_en": "European Lobster",
         "level_req": 5,
@@ -821,6 +868,7 @@
         "notes": ""
       },
       {
+        "rank": 54,
         "id": "f_053",
         "name_en": "European Flying Squid",
         "level_req": 5,
@@ -836,6 +884,7 @@
         "notes": ""
       },
       {
+        "rank": 55,
         "id": "f_054",
         "name_en": "Large Pearl Mussel",
         "level_req": 6,
@@ -851,6 +900,7 @@
         "notes": ""
       },
       {
+        "rank": 56,
         "id": "f_055",
         "name_en": "Puffer Fish",
         "level_req": 6,
@@ -866,6 +916,7 @@
         "notes": ""
       },
       {
+        "rank": 57,
         "id": "f_056",
         "name_en": "Chum Salmon",
         "level_req": 6,
@@ -881,6 +932,7 @@
         "notes": ""
       },
       {
+        "rank": 58,
         "id": "f_057",
         "name_en": "Grayling",
         "level_req": 6,
@@ -896,6 +948,7 @@
         "notes": ""
       },
       {
+        "rank": 59,
         "id": "f_058",
         "name_en": "Tub Gurnard",
         "level_req": 6,
@@ -911,6 +964,7 @@
         "notes": ""
       },
       {
+        "rank": 60,
         "id": "f_059",
         "name_en": "Nursehound",
         "level_req": 6,
@@ -926,6 +980,7 @@
         "notes": ""
       },
       {
+        "rank": 61,
         "id": "f_060",
         "name_en": "Three-Spined Stickleback",
         "level_req": 7,
@@ -941,6 +996,7 @@
         "notes": ""
       },
       {
+        "rank": 62,
         "id": "f_061",
         "name_en": "Mediterranean Killifish",
         "level_req": 7,
@@ -956,6 +1012,7 @@
         "notes": ""
       },
       {
+        "rank": 63,
         "id": "f_062",
         "name_en": "Mottled Sculpin",
         "level_req": 7,
@@ -971,6 +1028,7 @@
         "notes": ""
       },
       {
+        "rank": 64,
         "id": "f_063",
         "name_en": "Giant Oarfish",
         "level_req": 7,
@@ -986,6 +1044,7 @@
         "notes": ""
       },
       {
+        "rank": 65,
         "id": "f_064",
         "name_en": "Blackspot Seabream",
         "level_req": 7,
@@ -1001,6 +1060,7 @@
         "notes": ""
       },
       {
+        "rank": 66,
         "id": "f_065",
         "name_en": "European Eel",
         "level_req": 7,
@@ -1016,6 +1076,7 @@
         "notes": ""
       },
       {
+        "rank": 67,
         "id": "f_066",
         "name_en": "European Mudminnow",
         "level_req": 8,
@@ -1031,6 +1092,7 @@
         "notes": ""
       },
       {
+        "rank": 68,
         "id": "f_067",
         "name_en": "Blue European Crayfish",
         "level_req": 8,
@@ -1046,6 +1108,7 @@
         "notes": ""
       },
       {
+        "rank": 69,
         "id": "f_068",
         "name_en": "Goldfish",
         "level_req": 8,
@@ -1061,6 +1124,7 @@
         "notes": ""
       },
       {
+        "rank": 70,
         "id": "f_069",
         "name_en": "King Crab",
         "level_req": 8,
@@ -1076,6 +1140,7 @@
         "notes": ""
       },
       {
+        "rank": 71,
         "id": "f_070",
         "name_en": "Haddock",
         "level_req": 8,
@@ -1091,6 +1156,7 @@
         "notes": ""
       },
       {
+        "rank": 72,
         "id": "f_071",
         "name_en": "Northern Pike",
         "level_req": 9,
@@ -1106,6 +1172,7 @@
         "notes": ""
       },
       {
+        "rank": 73,
         "id": "f_072",
         "name_en": "Pumpkinseed",
         "level_req": 9,
@@ -1121,6 +1188,7 @@
         "notes": ""
       },
       {
+        "rank": 74,
         "id": "f_073",
         "name_en": "Huchen",
         "level_req": 9,
@@ -1136,6 +1204,7 @@
         "notes": ""
       },
       {
+        "rank": 75,
         "id": "f_074",
         "name_en": "Bluefin Tuna",
         "level_req": 9,
@@ -1151,6 +1220,7 @@
         "notes": ""
       },
       {
+        "rank": 76,
         "id": "f_075",
         "name_en": "Ocean Sunfish",
         "level_req": 9,
@@ -1166,6 +1236,7 @@
         "notes": ""
       },
       {
+        "rank": 77,
         "id": "f_076",
         "name_en": "Moonfish",
         "level_req": 9,
@@ -1181,6 +1252,7 @@
         "notes": ""
       },
       {
+        "rank": 78,
         "id": "f_077",
         "name_en": "Wels Catfish",
         "level_req": 10,
@@ -1196,6 +1268,7 @@
         "notes": ""
       },
       {
+        "rank": 79,
         "id": "f_078",
         "name_en": "Bluegill",
         "level_req": 10,
@@ -1211,6 +1284,7 @@
         "notes": ""
       },
       {
+        "rank": 80,
         "id": "f_079",
         "name_en": "Arctic Char",
         "level_req": 10,
@@ -1226,6 +1300,7 @@
         "notes": ""
       },
       {
+        "rank": 81,
         "id": "f_080",
         "name_en": "Smooth Hammerhead",
         "level_req": 10,
@@ -1241,6 +1316,7 @@
         "notes": ""
       },
       {
+        "rank": 82,
         "id": "f_077",
         "name_en": "Golden King Crab",
         "level_req": 8,
@@ -1256,6 +1332,7 @@
         "notes": ""
       },
       {
+        "rank": 83,
         "id": "f_081",
         "name_en": "Shortfin Mako Shark",
         "level_req": 10,
@@ -1271,6 +1348,7 @@
         "notes": ""
       },
       {
+        "rank": 84,
         "id": "f_083",
         "name_en": "Swordfish ",
         "level_req": 10,
@@ -1286,6 +1364,7 @@
         "notes": ""
       },
       {
+        "rank": 85,
         "id": "f_085",
         "name_en": "Frostspore King Crab",
         "level_req": 1,
@@ -1301,6 +1380,7 @@
         "notes": ""
       },
       {
+        "rank": 86,
         "id": "f_086",
         "name_en": "Frostspore Ocean Sunfish",
         "level_req": 1,
@@ -1316,6 +1396,7 @@
         "notes": ""
       },
       {
+        "rank": 87,
         "id": "f_087",
         "name_en": "Frostspore Puffer Fish",
         "level_req": 1,
@@ -1331,6 +1412,7 @@
         "notes": ""
       },
       {
+        "rank": 88,
         "id": "f_088",
         "name_en": "Frostspore Seahorse",
         "level_req": 1,
@@ -1346,6 +1428,7 @@
         "notes": ""
       },
       {
+        "rank": 89,
         "id": "f_089",
         "name_en": "Frostspore Whale Shark",
         "level_req": 1,
@@ -1361,6 +1444,7 @@
         "notes": "Event extra phase"
       },
       {
+        "rank": 90,
         "id": "f_090",
         "name_en": "Director Pygmy Octopus w/ Navy Hat",
         "level_req": 1,
@@ -1376,6 +1460,7 @@
         "notes": ""
       },
       {
+        "rank": 91,
         "id": "f_091",
         "name_en": "Director Pygmy Octopus w/ Brown Hat",
         "level_req": 1,
@@ -1391,6 +1476,7 @@
         "notes": ""
       },
       {
+        "rank": 92,
         "id": "f_092",
         "name_en": "Director Pygmy Octopus w/ CyanHat",
         "level_req": 1,
@@ -1406,6 +1492,7 @@
         "notes": ""
       },
       {
+        "rank": 93,
         "id": "f_093",
         "name_en": "Director Common Octopus w/ Cinnamon",
         "level_req": 1,
@@ -1421,6 +1508,7 @@
         "notes": ""
       },
       {
+        "rank": 94,
         "id": "f_094",
         "name_en": "Director Common Octopus w/ Patterned Hat",
         "level_req": 1,
@@ -1438,6 +1526,7 @@
     ],
     "insect": [
       {
+        "rank": 1,
         "id": "i_001",
         "name_en": "Old World Swallowtail",
         "level_req": 1,
@@ -1453,6 +1542,7 @@
         "notes": ""
       },
       {
+        "rank": 2,
         "id": "i_002",
         "name_en": "Orange-Tip",
         "level_req": 1,
@@ -1468,6 +1558,7 @@
         "notes": ""
       },
       {
+        "rank": 3,
         "id": "i_003",
         "name_en": "Common Brimstone",
         "level_req": 1,
@@ -1483,6 +1574,7 @@
         "notes": ""
       },
       {
+        "rank": 4,
         "id": "i_004",
         "name_en": "Cabbage White",
         "level_req": 1,
@@ -1498,6 +1590,7 @@
         "notes": ""
       },
       {
+        "rank": 5,
         "id": "i_005",
         "name_en": "Apollo",
         "level_req": 1,
@@ -1513,6 +1606,7 @@
         "notes": ""
       },
       {
+        "rank": 6,
         "id": "i_006",
         "name_en": "Postman Butterfly",
         "level_req": 1,
@@ -1528,6 +1622,7 @@
         "notes": ""
       },
       {
+        "rank": 7,
         "id": "i_007",
         "name_en": "Sulkowsky's Morpho",
         "level_req": 1,
@@ -1543,6 +1638,7 @@
         "notes": ""
       },
       {
+        "rank": 8,
         "id": "i_008",
         "name_en": "Asparagus Beetle",
         "level_req": 1,
@@ -1558,6 +1654,7 @@
         "notes": ""
       },
       {
+        "rank": 9,
         "id": "i_009",
         "name_en": "Gold Grasshopper",
         "level_req": 1,
@@ -1573,6 +1670,7 @@
         "notes": ""
       },
       {
+        "rank": 10,
         "id": "i_010",
         "name_en": "European Firebug",
         "level_req": 1,
@@ -1588,6 +1686,7 @@
         "notes": ""
       },
       {
+        "rank": 11,
         "id": "i_011",
         "name_en": "Large Red Damselfly",
         "level_req": 1,
@@ -1603,6 +1702,7 @@
         "notes": ""
       },
       {
+        "rank": 12,
         "id": "i_012",
         "name_en": "Common Blue Butterfly",
         "level_req": 2,
@@ -1618,6 +1718,7 @@
         "notes": ""
       },
       {
+        "rank": 13,
         "id": "i_013",
         "name_en": "Green Tiger Beetle",
         "level_req": 2,
@@ -1633,6 +1734,7 @@
         "notes": ""
       },
       {
+        "rank": 14,
         "id": "i_014",
         "name_en": "Wasp Beetle",
         "level_req": 2,
@@ -1648,6 +1750,7 @@
         "notes": ""
       },
       {
+        "rank": 15,
         "id": "i_015",
         "name_en": "Amethyst Flower Beetle",
         "level_req": 2,
@@ -1663,6 +1766,7 @@
         "notes": ""
       },
       {
+        "rank": 16,
         "id": "i_016",
         "name_en": "Siberian Grasshopper",
         "level_req": 2,
@@ -1678,6 +1782,7 @@
         "notes": ""
       },
       {
+        "rank": 17,
         "id": "i_017",
         "name_en": "Seven-Spotted Ladybug",
         "level_req": 2,
@@ -1693,6 +1798,7 @@
         "notes": ""
       },
       {
+        "rank": 18,
         "id": "i_018",
         "name_en": "Four-Spotted Skimmer",
         "level_req": 2,
@@ -1708,6 +1814,7 @@
         "notes": ""
       },
       {
+        "rank": 19,
         "id": "i_019",
         "name_en": "Bumblebee",
         "level_req": 2,
@@ -1723,6 +1830,7 @@
         "notes": ""
       },
       {
+        "rank": 20,
         "id": "i_020",
         "name_en": "Purple Emperor",
         "level_req": 3,
@@ -1738,6 +1846,7 @@
         "notes": ""
       },
       {
+        "rank": 21,
         "id": "i_021",
         "name_en": "Rajah Brooke's Birdwing",
         "level_req": 3,
@@ -1753,6 +1862,7 @@
         "notes": ""
       },
       {
+        "rank": 22,
         "id": "i_022",
         "name_en": "Mini Moon Moth",
         "level_req": 3,
@@ -1768,6 +1878,7 @@
         "notes": "Also seen on light posts"
       },
       {
+        "rank": 23,
         "id": "i_023",
         "name_en": "Fire-Colored Beetle",
         "level_req": 3,
@@ -1783,6 +1894,7 @@
         "notes": ""
       },
       {
+        "rank": 24,
         "id": "i_024",
         "name_en": "Pink Katydid",
         "level_req": 3,
@@ -1798,6 +1910,7 @@
         "notes": ""
       },
       {
+        "rank": 25,
         "id": "i_025",
         "name_en": "Katydid",
         "level_req": 3,
@@ -1813,6 +1926,7 @@
         "notes": ""
       },
       {
+        "rank": 26,
         "id": "i_026",
         "name_en": "Waroona Cuckoo Bee",
         "level_req": 3,
@@ -1828,6 +1942,7 @@
         "notes": ""
       },
       {
+        "rank": 27,
         "id": "i_027",
         "name_en": "Ant",
         "level_req": 3,
@@ -1843,6 +1958,7 @@
         "notes": ""
       },
       {
+        "rank": 28,
         "id": "i_028",
         "name_en": "Beautiful Leopard",
         "level_req": 4,
@@ -1858,6 +1974,7 @@
         "notes": ""
       },
       {
+        "rank": 29,
         "id": "i_029",
         "name_en": "Large Banded Grasshopper",
         "level_req": 4,
@@ -1873,6 +1990,7 @@
         "notes": ""
       },
       {
+        "rank": 30,
         "id": "i_030",
         "name_en": "Four-Spotted Ladybug",
         "level_req": 4,
@@ -1888,6 +2006,7 @@
         "notes": ""
       },
       {
+        "rank": 31,
         "id": "i_031",
         "name_en": "Cicada",
         "level_req": 4,
@@ -1903,6 +2022,7 @@
         "notes": ""
       },
       {
+        "rank": 32,
         "id": "i_032",
         "name_en": "Common Whitetail",
         "level_req": 4,
@@ -1918,6 +2038,7 @@
         "notes": ""
       },
       {
+        "rank": 33,
         "id": "i_033",
         "name_en": "Mediterranean Mantis",
         "level_req": 4,
@@ -1933,6 +2054,7 @@
         "notes": ""
       },
       {
+        "rank": 34,
         "id": "i_034",
         "name_en": "Peacock Butterfly",
         "level_req": 5,
@@ -1948,6 +2070,7 @@
         "notes": ""
       },
       {
+        "rank": 35,
         "id": "i_035",
         "name_en": "Mourning Cloak",
         "level_req": 5,
@@ -1963,6 +2086,7 @@
         "notes": ""
       },
       {
+        "rank": 36,
         "id": "i_036",
         "name_en": "White Witch",
         "level_req": 5,
@@ -1978,6 +2102,7 @@
         "notes": ""
       },
       {
+        "rank": 37,
         "id": "i_037",
         "name_en": "Alpine Longhorn Beetle",
         "level_req": 5,
@@ -1993,6 +2118,7 @@
         "notes": ""
       },
       {
+        "rank": 38,
         "id": "i_038",
         "name_en": "Asian Lady Beetle",
         "level_req": 5,
@@ -2008,6 +2134,7 @@
         "notes": ""
       },
       {
+        "rank": 39,
         "id": "i_039",
         "name_en": "Giant Asian Mantis",
         "level_req": 5,
@@ -2023,6 +2150,7 @@
         "notes": "Can be seen moving bushes"
       },
       {
+        "rank": 40,
         "id": "i_040",
         "name_en": "Splay-Footed Carpenter",
         "level_req": 5,
@@ -2038,6 +2166,7 @@
         "notes": ""
       },
       {
+        "rank": 41,
         "id": "i_041",
         "name_en": "Green Birdwing",
         "level_req": 6,
@@ -2053,6 +2182,7 @@
         "notes": ""
       },
       {
+        "rank": 42,
         "id": "i_042",
         "name_en": "Stag Beetle",
         "level_req": 6,
@@ -2068,6 +2198,7 @@
         "notes": ""
       },
       {
+        "rank": 43,
         "id": "i_043",
         "name_en": "Silver Jewel Scarab",
         "level_req": 6,
@@ -2083,6 +2214,7 @@
         "notes": ""
       },
       {
+        "rank": 44,
         "id": "i_044",
         "name_en": "Blue Shieldbug",
         "level_req": 6,
@@ -2098,6 +2230,7 @@
         "notes": ""
       },
       {
+        "rank": 45,
         "id": "i_045",
         "name_en": "Beautiful Demoiselle",
         "level_req": 6,
@@ -2113,6 +2246,7 @@
         "notes": ""
       },
       {
+        "rank": 46,
         "id": "i_046",
         "name_en": "Blue Morpho",
         "level_req": 7,
@@ -2128,6 +2262,7 @@
         "notes": ""
       },
       {
+        "rank": 47,
         "id": "i_047",
         "name_en": "Chestnut Tiger",
         "level_req": 7,
@@ -2143,6 +2278,7 @@
         "notes": ""
       },
       {
+        "rank": 48,
         "id": "i_048",
         "name_en": "Minotaur Beetle",
         "level_req": 7,
@@ -2158,6 +2294,7 @@
         "notes": ""
       },
       {
+        "rank": 49,
         "id": "i_049",
         "name_en": "Elegant Flower Beetle",
         "level_req": 7,
@@ -2173,6 +2310,7 @@
         "notes": ""
       },
       {
+        "rank": 50,
         "id": "i_050",
         "name_en": "Golden Jewel Scarab",
         "level_req": 7,
@@ -2188,6 +2326,7 @@
         "notes": ""
       },
       {
+        "rank": 51,
         "id": "i_051",
         "name_en": "Crimson Marsh Glider",
         "level_req": 7,
@@ -2203,6 +2342,7 @@
         "notes": ""
       },
       {
+        "rank": 52,
         "id": "i_052",
         "name_en": "Spanish Moon Moth",
         "level_req": 8,
@@ -2218,6 +2358,7 @@
         "notes": ""
       },
       {
+        "rank": 53,
         "id": "i_053",
         "name_en": "Comet Moth",
         "level_req": 8,
@@ -2233,6 +2374,7 @@
         "notes": "Appears on lampposts. Miss twice and its gone"
       },
       {
+        "rank": 54,
         "id": "i_054",
         "name_en": "Horned Beetle",
         "level_req": 8,
@@ -2248,6 +2390,7 @@
         "notes": ""
       },
       {
+        "rank": 55,
         "id": "i_055",
         "name_en": "Picasso Bug",
         "level_req": 8,
@@ -2263,6 +2406,7 @@
         "notes": ""
       },
       {
+        "rank": 56,
         "id": "i_056",
         "name_en": "Mother-Of-Pearl",
         "level_req": 9,
@@ -2278,6 +2422,7 @@
         "notes": "They are quick and disappear"
       },
       {
+        "rank": 57,
         "id": "i_057",
         "name_en": "Golden Stag Beetle",
         "level_req": 9,
@@ -2293,6 +2438,7 @@
         "notes": "Dissapears after 2 misses"
       },
       {
+        "rank": 58,
         "id": "i_058",
         "name_en": "Rainbow Stag Beetle",
         "level_req": 9,
@@ -2308,6 +2454,7 @@
         "notes": ""
       },
       {
+        "rank": 59,
         "id": "i_059",
         "name_en": "Conehead Mantis",
         "level_req": 9,
@@ -2323,6 +2470,7 @@
         "notes": ""
       },
       {
+        "rank": 60,
         "id": "i_060",
         "name_en": "Cerulean Carpenter",
         "level_req": 9,
@@ -2338,6 +2486,7 @@
         "notes": ""
       },
       {
+        "rank": 61,
         "id": "i_061",
         "name_en": "Hercules Beetle",
         "level_req": 10,
@@ -2353,6 +2502,7 @@
         "notes": "Hard to see on the tree. Look for the gold butt"
       },
       {
+        "rank": 62,
         "id": "i_062",
         "name_en": "Bagworm Moth",
         "level_req": 10,
@@ -2368,6 +2518,7 @@
         "notes": "Only one appears at a time. Get too close or miss and it disappears"
       },
       {
+        "rank": 63,
         "id": "i_063",
         "name_en": "Morpho Helena",
         "level_req": 10,
@@ -2383,6 +2534,7 @@
         "notes": ""
       },
       {
+        "rank": 64,
         "id": "i_064",
         "name_en": "Sunset Morpho",
         "level_req": 10,
@@ -2398,6 +2550,7 @@
         "notes": ""
       },
       {
+        "rank": 65,
         "id": "i_065",
         "name_en": "Frostspore Mother-of-Pearl",
         "level_req": 1,
@@ -2413,6 +2566,7 @@
         "notes": ""
       },
       {
+        "rank": 66,
         "id": "i_066",
         "name_en": "Frostspore Postman Butterfly",
         "level_req": 1,
@@ -2428,6 +2582,7 @@
         "notes": "Event hidden phase only"
       },
       {
+        "rank": 67,
         "id": "i_067",
         "name_en": "Frostspore Purple Spotted Swallowtail",
         "level_req": 1,
@@ -2443,6 +2598,7 @@
         "notes": ""
       },
       {
+        "rank": 68,
         "id": "i_068",
         "name_en": "Frostspore Queen Alexandra's Birdwing",
         "level_req": 1,
@@ -2458,6 +2614,7 @@
         "notes": ""
       },
       {
+        "rank": 69,
         "id": "i_069",
         "name_en": "Frostspore Sulkowsky's Morpho",
         "level_req": 1,
@@ -2473,6 +2630,7 @@
         "notes": ""
       },
       {
+        "rank": 70,
         "id": "i_070",
         "name_en": " Pink Script Supervisor Bee",
         "level_req": 1,
@@ -2488,6 +2646,7 @@
         "notes": ""
       },
       {
+        "rank": 71,
         "id": "i_071",
         "name_en": " Red Script Supervisor Bee",
         "level_req": 1,
@@ -2503,6 +2662,7 @@
         "notes": ""
       },
       {
+        "rank": 72,
         "id": "i_072",
         "name_en": " Green Script Supervisor Bee",
         "level_req": 1,
@@ -2518,6 +2678,7 @@
         "notes": ""
       },
       {
+        "rank": 73,
         "id": "i_073",
         "name_en": " Purple Script Supervisor Bee",
         "level_req": 1,
@@ -2533,6 +2694,7 @@
         "notes": ""
       },
       {
+        "rank": 74,
         "id": "i_074",
         "name_en": "Golden Script Supervisor Bumblebee",
         "level_req": 1,
@@ -2550,6 +2712,7 @@
     ],
     "bird": [
       {
+        "rank": 1,
         "id": "b_001",
         "name_en": "African Olive Pigeon",
         "level_req": 5,
@@ -2563,6 +2726,7 @@
         "notes": ""
       },
       {
+        "rank": 2,
         "id": "b_002",
         "name_en": "American Flamingo",
         "level_req": 9,
@@ -2576,6 +2740,7 @@
         "notes": ""
       },
       {
+        "rank": 3,
         "id": "b_003",
         "name_en": "Amur Falcon",
         "level_req": 10,
@@ -2589,6 +2754,7 @@
         "notes": ""
       },
       {
+        "rank": 4,
         "id": "b_004",
         "name_en": "Audouin's Gull",
         "level_req": 3,
@@ -2602,6 +2768,7 @@
         "notes": ""
       },
       {
+        "rank": 5,
         "id": "b_005",
         "name_en": "Azores Bullfinch",
         "level_req": 10,
@@ -2615,6 +2782,7 @@
         "notes": ""
       },
       {
+        "rank": 6,
         "id": "b_006",
         "name_en": "Azure Tit",
         "level_req": 7,
@@ -2628,6 +2796,7 @@
         "notes": ""
       },
       {
+        "rank": 7,
         "id": "b_007",
         "name_en": "Bearded Reedling",
         "level_req": 2,
@@ -2641,6 +2810,7 @@
         "notes": ""
       },
       {
+        "rank": 8,
         "id": "b_008",
         "name_en": "Blue Peafowl",
         "level_req": 1,
@@ -2654,6 +2824,7 @@
         "notes": ""
       },
       {
+        "rank": 9,
         "id": "b_009",
         "name_en": "Blue-and-Yellow Macaw",
         "level_req": 1,
@@ -2667,6 +2838,7 @@
         "notes": ""
       },
       {
+        "rank": 10,
         "id": "b_010",
         "name_en": "Brown Noddy",
         "level_req": 5,
@@ -2680,6 +2852,7 @@
         "notes": ""
       },
       {
+        "rank": 11,
         "id": "b_011",
         "name_en": "Cinnamon Ground Dove",
         "level_req": 6,
@@ -2693,6 +2866,7 @@
         "notes": ""
       },
       {
+        "rank": 12,
         "id": "b_012",
         "name_en": "Common Kestrel",
         "level_req": 7,
@@ -2706,6 +2880,7 @@
         "notes": ""
       },
       {
+        "rank": 13,
         "id": "b_013",
         "name_en": "Double-Barred Finch",
         "level_req": 3,
@@ -2719,6 +2894,7 @@
         "notes": ""
       },
       {
+        "rank": 14,
         "id": "b_014",
         "name_en": "Eagle-Owl",
         "level_req": 10,
@@ -2732,6 +2908,7 @@
         "notes": ""
       },
       {
+        "rank": 15,
         "id": "b_015",
         "name_en": "Eastern Bluebird",
         "level_req": 8,
@@ -2745,6 +2922,7 @@
         "notes": ""
       },
       {
+        "rank": 16,
         "id": "b_016",
         "name_en": "Eurasian Bullfinch",
         "level_req": 1,
@@ -2758,6 +2936,7 @@
         "notes": ""
       },
       {
+        "rank": 17,
         "id": "b_017",
         "name_en": "Eurasian Chaffinch",
         "level_req": 1,
@@ -2771,6 +2950,7 @@
         "notes": ""
       },
       {
+        "rank": 18,
         "id": "b_018",
         "name_en": "Eurasian Collared Dove",
         "level_req": 1,
@@ -2784,6 +2964,7 @@
         "notes": ""
       },
       {
+        "rank": 19,
         "id": "b_019",
         "name_en": "Eurasian Golden Oriole",
         "level_req": 3,
@@ -2797,6 +2978,7 @@
         "notes": ""
       },
       {
+        "rank": 20,
         "id": "b_020",
         "name_en": "Eurasian Nuthatch",
         "level_req": 2,
@@ -2810,6 +2992,7 @@
         "notes": ""
       },
       {
+        "rank": 21,
         "id": "b_021",
         "name_en": "Eurasian Wigeon",
         "level_req": 2,
@@ -2823,6 +3006,7 @@
         "notes": ""
       },
       {
+        "rank": 22,
         "id": "b_022",
         "name_en": "Eurasian Wren",
         "level_req": 1,
@@ -2836,6 +3020,7 @@
         "notes": ""
       },
       {
+        "rank": 23,
         "id": "b_023",
         "name_en": "European Bee-Eater",
         "level_req": 5,
@@ -2849,6 +3034,7 @@
         "notes": ""
       },
       {
+        "rank": 24,
         "id": "b_024",
         "name_en": "European Robin",
         "level_req": 1,
@@ -2862,6 +3048,7 @@
         "notes": ""
       },
       {
+        "rank": 25,
         "id": "b_025",
         "name_en": "European Shag",
         "level_req": 3,
@@ -2875,6 +3062,7 @@
         "notes": ""
       },
       {
+        "rank": 26,
         "id": "b_026",
         "name_en": "Great Green Macaw",
         "level_req": 5,
@@ -2888,6 +3076,7 @@
         "notes": ""
       },
       {
+        "rank": 27,
         "id": "b_027",
         "name_en": "Great Tit",
         "level_req": 1,
@@ -2901,6 +3090,7 @@
         "notes": ""
       },
       {
+        "rank": 28,
         "id": "b_028",
         "name_en": "Greater Flamingo",
         "level_req": 1,
@@ -2914,6 +3104,7 @@
         "notes": ""
       },
       {
+        "rank": 29,
         "id": "b_029",
         "name_en": "Green Peafowl",
         "level_req": 9,
@@ -2927,6 +3118,7 @@
         "notes": ""
       },
       {
+        "rank": 30,
         "id": "b_030",
         "name_en": "Hawfinch",
         "level_req": 6,
@@ -2940,6 +3132,7 @@
         "notes": ""
       },
       {
+        "rank": 31,
         "id": "b_031",
         "name_en": "Imperial Shag",
         "level_req": 9,
@@ -2953,6 +3146,7 @@
         "notes": ""
       },
       {
+        "rank": 32,
         "id": "b_032",
         "name_en": "Jambu Fruit Dove",
         "level_req": 7,
@@ -2966,6 +3160,7 @@
         "notes": ""
       },
       {
+        "rank": 33,
         "id": "b_033",
         "name_en": "King Eider",
         "level_req": 3,
@@ -2979,6 +3174,7 @@
         "notes": ""
       },
       {
+        "rank": 34,
         "id": "b_034",
         "name_en": "Lady Amherst Pheasant",
         "level_req": 4,
@@ -2992,6 +3188,7 @@
         "notes": ""
       },
       {
+        "rank": 35,
         "id": "b_035",
         "name_en": "Lear's Macaw",
         "level_req": 7,
@@ -3005,6 +3202,7 @@
         "notes": ""
       },
       {
+        "rank": 36,
         "id": "b_036",
         "name_en": "Lesser Flamingo",
         "level_req": 5,
@@ -3018,6 +3216,7 @@
         "notes": ""
       },
       {
+        "rank": 37,
         "id": "b_037",
         "name_en": "Long Eared Owl",
         "level_req": 6,
@@ -3031,6 +3230,7 @@
         "notes": ""
       },
       {
+        "rank": 38,
         "id": "b_038",
         "name_en": "Long-Tailed Tit",
         "level_req": 1,
@@ -3044,6 +3244,7 @@
         "notes": ""
       },
       {
+        "rank": 39,
         "id": "b_039",
         "name_en": "Mallard",
         "level_req": 1,
@@ -3057,6 +3258,7 @@
         "notes": ""
       },
       {
+        "rank": 40,
         "id": "b_040",
         "name_en": "Paradise Tanager",
         "level_req": 9,
@@ -3070,6 +3272,7 @@
         "notes": ""
       },
       {
+        "rank": 41,
         "id": "b_041",
         "name_en": "Peregrine Falcon",
         "level_req": 8,
@@ -3083,6 +3286,7 @@
         "notes": ""
       },
       {
+        "rank": 42,
         "id": "b_042",
         "name_en": "Pied Imperial Pigeon",
         "level_req": 1,
@@ -3096,6 +3300,7 @@
         "notes": ""
       },
       {
+        "rank": 43,
         "id": "b_043",
         "name_en": "Pine Grosbeak",
         "level_req": 4,
@@ -3109,6 +3314,7 @@
         "notes": ""
       },
       {
+        "rank": 44,
         "id": "b_044",
         "name_en": "Pink Pigeon",
         "level_req": 7,
@@ -3122,6 +3328,7 @@
         "notes": ""
       },
       {
+        "rank": 45,
         "id": "b_045",
         "name_en": "Pink-Necked Green Pigeon",
         "level_req": 2,
@@ -3135,6 +3342,7 @@
         "notes": ""
       },
       {
+        "rank": 46,
         "id": "b_046",
         "name_en": "Przevalski's Parrotbill",
         "level_req": 4,
@@ -3148,6 +3356,7 @@
         "notes": ""
       },
       {
+        "rank": 47,
         "id": "b_047",
         "name_en": "Red Faced Cormorant",
         "level_req": 6,
@@ -3161,6 +3370,7 @@
         "notes": ""
       },
       {
+        "rank": 48,
         "id": "b_048",
         "name_en": "Red-and-Green Macaw",
         "level_req": 3,
@@ -3174,6 +3384,7 @@
         "notes": ""
       },
       {
+        "rank": 49,
         "id": "b_049",
         "name_en": "Redpoll",
         "level_req": 8,
@@ -3187,6 +3398,7 @@
         "notes": ""
       },
       {
+        "rank": 50,
         "id": "b_050",
         "name_en": "Regent Bowerbird",
         "level_req": 4,
@@ -3200,6 +3412,7 @@
         "notes": ""
       },
       {
+        "rank": 51,
         "id": "b_051",
         "name_en": "Ruddy Shelduck",
         "level_req": 3,
@@ -3213,6 +3426,7 @@
         "notes": ""
       },
       {
+        "rank": 52,
         "id": "b_052",
         "name_en": "Seagull",
         "level_req": 2,
@@ -3226,6 +3440,7 @@
         "notes": ""
       },
       {
+        "rank": 53,
         "id": "b_053",
         "name_en": "Silver-Throated Tit",
         "level_req": 3,
@@ -3239,6 +3454,7 @@
         "notes": ""
       },
       {
+        "rank": 54,
         "id": "b_054",
         "name_en": "Smew",
         "level_req": 4,
@@ -3252,6 +3468,7 @@
         "notes": ""
       },
       {
+        "rank": 55,
         "id": "b_055",
         "name_en": "Stock Dove",
         "level_req": 1,
@@ -3265,6 +3482,7 @@
         "notes": ""
       },
       {
+        "rank": 56,
         "id": "b_056",
         "name_en": "Tern",
         "level_req": 7,
@@ -3278,6 +3496,7 @@
         "notes": ""
       },
       {
+        "rank": 57,
         "id": "b_057",
         "name_en": "Verditer Flycatcher",
         "level_req": 10,
@@ -3291,6 +3510,7 @@
         "notes": ""
       },
       {
+        "rank": 58,
         "id": "b_058",
         "name_en": "Wallace's Fruit Dove",
         "level_req": 4,
@@ -3304,6 +3524,7 @@
         "notes": ""
       },
       {
+        "rank": 59,
         "id": "b_059",
         "name_en": "White Wagtail",
         "level_req": 4,
@@ -3317,6 +3538,7 @@
         "notes": ""
       },
       {
+        "rank": 60,
         "id": "b_060",
         "name_en": "White-Headed Duck",
         "level_req": 9,
@@ -3330,6 +3552,7 @@
         "notes": ""
       },
       {
+        "rank": 61,
         "id": "b_061",
         "name_en": "Wonga Pigeon",
         "level_req": 2,
@@ -3343,6 +3566,7 @@
         "notes": ""
       },
       {
+        "rank": 62,
         "id": "b_062",
         "name_en": "Woodchat Shrike",
         "level_req": 2,
@@ -3356,6 +3580,7 @@
         "notes": ""
       },
       {
+        "rank": 63,
         "id": "b_063",
         "name_en": "Yellow Bellied Flycatcher",
         "level_req": 5,
@@ -3369,6 +3594,7 @@
         "notes": ""
       },
       {
+        "rank": 64,
         "id": "b_064",
         "name_en": "Winter Eurasian Wigeon",
         "level_req": 1,
@@ -3382,6 +3608,7 @@
         "notes": ""
       },
       {
+        "rank": 65,
         "id": "b_065",
         "name_en": "Winter Greater Flamingo",
         "level_req": 1,
@@ -3395,6 +3622,7 @@
         "notes": ""
       },
       {
+        "rank": 66,
         "id": "b_066",
         "name_en": "Winter Mallard",
         "level_req": 1,
@@ -3408,6 +3636,7 @@
         "notes": ""
       },
       {
+        "rank": 67,
         "id": "b_067",
         "name_en": "Winter Mandarin Duck",
         "level_req": 1,
@@ -3421,6 +3650,7 @@
         "notes": "Event hidden phase only"
       },
       {
+        "rank": 68,
         "id": "b_068",
         "name_en": "Winter Smew",
         "level_req": 1,
@@ -3436,6 +3666,7 @@
     ],
     "cooking": [
       {
+        "rank": 1,
         "id": "c_001",
         "name_en": "Afternoon Tea",
         "level_req": 7,
@@ -3449,6 +3680,7 @@
         "notes": ""
       },
       {
+        "rank": 2,
         "id": "c_002",
         "name_en": "Apple Jam",
         "level_req": 1,
@@ -3462,6 +3694,7 @@
         "notes": ""
       },
       {
+        "rank": 3,
         "id": "c_003",
         "name_en": "Apple Pie",
         "level_req": 5,
@@ -3475,6 +3708,7 @@
         "notes": ""
       },
       {
+        "rank": 4,
         "id": "c_004",
         "name_en": "Baked Eggplant w/ Meat",
         "level_req": 9,
@@ -3488,6 +3722,7 @@
         "notes": "Buff: Fully Pumped"
       },
       {
+        "rank": 5,
         "id": "c_005",
         "name_en": "Bizarre Food",
         "level_req": 1,
@@ -3501,6 +3736,7 @@
         "notes": ""
       },
       {
+        "rank": 6,
         "id": "c_006",
         "name_en": "Bizzare Drink",
         "level_req": 1,
@@ -3514,6 +3750,7 @@
         "notes": ""
       },
       {
+        "rank": 7,
         "id": "c_007",
         "name_en": "Black Truffle Cream Pasta",
         "level_req": 3,
@@ -3527,6 +3764,7 @@
         "notes": ""
       },
       {
+        "rank": 8,
         "id": "c_008",
         "name_en": "Black Truffle Pie",
         "level_req": 1,
@@ -3540,6 +3778,7 @@
         "notes": ""
       },
       {
+        "rank": 9,
         "id": "c_009",
         "name_en": "Blue Roll Cake",
         "level_req": 1,
@@ -3553,6 +3792,7 @@
         "notes": ""
       },
       {
+        "rank": 10,
         "id": "c_010",
         "name_en": "Blueberry Jam",
         "level_req": 1,
@@ -3566,6 +3806,7 @@
         "notes": ""
       },
       {
+        "rank": 11,
         "id": "c_011",
         "name_en": "Button Mushroom Pie",
         "level_req": 1,
@@ -3579,6 +3820,7 @@
         "notes": ""
       },
       {
+        "rank": 12,
         "id": "c_012",
         "name_en": "Candlelight Dinner",
         "level_req": 9,
@@ -3592,6 +3834,7 @@
         "notes": "4 uses"
       },
       {
+        "rank": 13,
         "id": "c_013",
         "name_en": "Carrot Cake",
         "level_req": 5,
@@ -3605,6 +3848,7 @@
         "notes": ""
       },
       {
+        "rank": 14,
         "id": "c_014",
         "name_en": "Cheese Cake",
         "level_req": 2,
@@ -3618,6 +3862,7 @@
         "notes": ""
       },
       {
+        "rank": 15,
         "id": "c_015",
         "name_en": "Cheese Shrimp Stuffed Crab",
         "level_req": 13,
@@ -3631,6 +3876,7 @@
         "notes": ""
       },
       {
+        "rank": 16,
         "id": "c_016",
         "name_en": "Chocolate Sauce",
         "level_req": "",
@@ -3644,6 +3890,7 @@
         "notes": ""
       },
       {
+        "rank": 17,
         "id": "c_017",
         "name_en": "Coffee",
         "level_req": 1,
@@ -3657,6 +3904,7 @@
         "notes": ""
       },
       {
+        "rank": 18,
         "id": "c_018",
         "name_en": "Coffee Latte",
         "level_req": 1,
@@ -3670,6 +3918,7 @@
         "notes": ""
       },
       {
+        "rank": 19,
         "id": "c_019",
         "name_en": "Corn Soup",
         "level_req": 5,
@@ -3683,6 +3932,7 @@
         "notes": ""
       },
       {
+        "rank": 20,
         "id": "c_020",
         "name_en": "Crayfish Sashimi",
         "level_req": 8,
@@ -3696,6 +3946,7 @@
         "notes": "3 uses"
       },
       {
+        "rank": 21,
         "id": "c_021",
         "name_en": "Deluxe Seafood Platter",
         "level_req": 6,
@@ -3709,6 +3960,7 @@
         "notes": ""
       },
       {
+        "rank": 22,
         "id": "c_022",
         "name_en": "Exquisite Afternoon Tea",
         "level_req": 12,
@@ -3722,6 +3974,7 @@
         "notes": ""
       },
       {
+        "rank": 23,
         "id": "c_023",
         "name_en": "Fish N Chips",
         "level_req": 1,
@@ -3735,6 +3988,7 @@
         "notes": ""
       },
       {
+        "rank": 24,
         "id": "c_024",
         "name_en": "Grape Jam",
         "level_req": 1,
@@ -3748,6 +4002,7 @@
         "notes": ""
       },
       {
+        "rank": 25,
         "id": "c_025",
         "name_en": "Green Roll Cake",
         "level_req": 1,
@@ -3761,6 +4016,7 @@
         "notes": ""
       },
       {
+        "rank": 26,
         "id": "c_026",
         "name_en": "Grilled Button Mushroom",
         "level_req": 1,
@@ -3774,6 +4030,7 @@
         "notes": ""
       },
       {
+        "rank": 27,
         "id": "c_027",
         "name_en": "Grilled Mushrooms",
         "level_req": 1,
@@ -3787,6 +4044,7 @@
         "notes": ""
       },
       {
+        "rank": 28,
         "id": "c_028",
         "name_en": "Grilled Oyster Mushroom",
         "level_req": 1,
@@ -3800,6 +4058,7 @@
         "notes": ""
       },
       {
+        "rank": 29,
         "id": "c_029",
         "name_en": "Grilled Penny Bun",
         "level_req": 1,
@@ -3813,6 +4072,7 @@
         "notes": ""
       },
       {
+        "rank": 30,
         "id": "c_030",
         "name_en": "Grilled Shiitake Mushroom",
         "level_req": 1,
@@ -3826,6 +4086,7 @@
         "notes": ""
       },
       {
+        "rank": 31,
         "id": "c_031",
         "name_en": "House Salad",
         "level_req": 1,
@@ -3839,6 +4100,7 @@
         "notes": ""
       },
       {
+        "rank": 32,
         "id": "c_032",
         "name_en": "Indigo Roll Cake",
         "level_req": 1,
@@ -3852,6 +4114,7 @@
         "notes": ""
       },
       {
+        "rank": 33,
         "id": "c_033",
         "name_en": "Mandarin Jam",
         "level_req": 1,
@@ -3865,6 +4128,7 @@
         "notes": ""
       },
       {
+        "rank": 34,
         "id": "c_034",
         "name_en": "Meat Burger",
         "level_req": 8,
@@ -3878,6 +4142,7 @@
         "notes": "Buff: Fully Pumped"
       },
       {
+        "rank": 35,
         "id": "c_035",
         "name_en": "Meat Sauce Pasta",
         "level_req": 4,
@@ -3891,6 +4156,7 @@
         "notes": ""
       },
       {
+        "rank": 36,
         "id": "c_036",
         "name_en": "Mellow Black Tea",
         "level_req": 11,
@@ -3904,6 +4170,7 @@
         "notes": ""
       },
       {
+        "rank": 37,
         "id": "c_037",
         "name_en": "Milkshake",
         "level_req": 11,
@@ -3917,6 +4184,7 @@
         "notes": ""
       },
       {
+        "rank": 38,
         "id": "c_038",
         "name_en": "Mixed Jam",
         "level_req": 1,
@@ -3930,6 +4198,7 @@
         "notes": ""
       },
       {
+        "rank": 39,
         "id": "c_039",
         "name_en": "Mushroom Pie",
         "level_req": 1,
@@ -3943,6 +4212,7 @@
         "notes": ""
       },
       {
+        "rank": 40,
         "id": "c_040",
         "name_en": "Orange Roll Cake",
         "level_req": 1,
@@ -3956,6 +4226,7 @@
         "notes": ""
       },
       {
+        "rank": 41,
         "id": "c_041",
         "name_en": "Original Roll Cake",
         "level_req": 1,
@@ -3969,6 +4240,7 @@
         "notes": ""
       },
       {
+        "rank": 42,
         "id": "c_042",
         "name_en": "Oyster Mushroom Pie",
         "level_req": 1,
@@ -3982,6 +4254,7 @@
         "notes": ""
       },
       {
+        "rank": 43,
         "id": "c_043",
         "name_en": "Penny Bun Pie",
         "level_req": 1,
@@ -3995,6 +4268,7 @@
         "notes": ""
       },
       {
+        "rank": 44,
         "id": "c_044",
         "name_en": "Picnic Set",
         "level_req": 7,
@@ -4008,6 +4282,7 @@
         "notes": "Buff: Mighty Strength"
       },
       {
+        "rank": 45,
         "id": "c_045",
         "name_en": "Pineapple Jam",
         "level_req": 1,
@@ -4021,6 +4296,7 @@
         "notes": ""
       },
       {
+        "rank": 46,
         "id": "c_046",
         "name_en": "Raspberry Jam",
         "level_req": 1,
@@ -4034,6 +4310,7 @@
         "notes": ""
       },
       {
+        "rank": 47,
         "id": "c_047",
         "name_en": "Red Roll Cake",
         "level_req": 1,
@@ -4047,6 +4324,7 @@
         "notes": ""
       },
       {
+        "rank": 48,
         "id": "c_048",
         "name_en": "Refreshing Green Tea",
         "level_req": 12,
@@ -4060,6 +4338,7 @@
         "notes": ""
       },
       {
+        "rank": 49,
         "id": "c_049",
         "name_en": "Rustic Ratatouille",
         "level_req": 3,
@@ -4073,6 +4352,7 @@
         "notes": ""
       },
       {
+        "rank": 50,
         "id": "c_050",
         "name_en": "Seafood Pizza",
         "level_req": 4,
@@ -4086,6 +4366,7 @@
         "notes": ""
       },
       {
+        "rank": 51,
         "id": "c_051",
         "name_en": "Seafood Risotto",
         "level_req": 3,
@@ -4099,6 +4380,7 @@
         "notes": ""
       },
       {
+        "rank": 52,
         "id": "c_052",
         "name_en": "Shiitake Pie",
         "level_req": 1,
@@ -4112,6 +4394,7 @@
         "notes": ""
       },
       {
+        "rank": 53,
         "id": "c_053",
         "name_en": "Shrimp Avocado Cup",
         "level_req": 13,
@@ -4125,6 +4408,7 @@
         "notes": ""
       },
       {
+        "rank": 54,
         "id": "c_054",
         "name_en": "Smoked Fish Bagel",
         "level_req": 2,
@@ -4138,6 +4422,7 @@
         "notes": ""
       },
       {
+        "rank": 55,
         "id": "c_055",
         "name_en": "Steamed King Crab",
         "level_req": 10,
@@ -4151,6 +4436,7 @@
         "notes": "Buff: Swift Stride"
       },
       {
+        "rank": 56,
         "id": "c_056",
         "name_en": "Strawberry Jam",
         "level_req": 1,
@@ -4164,6 +4450,7 @@
         "notes": ""
       },
       {
+        "rank": 57,
         "id": "c_057",
         "name_en": "Tiramisu",
         "level_req": 6,
@@ -4177,6 +4464,7 @@
         "notes": ""
       },
       {
+        "rank": 58,
         "id": "c_058",
         "name_en": "Tomato Sauce",
         "level_req": 1,
@@ -4190,6 +4478,7 @@
         "notes": ""
       },
       {
+        "rank": 59,
         "id": "c_059",
         "name_en": "Violet Roll Cake",
         "level_req": 1,
@@ -4203,6 +4492,7 @@
         "notes": ""
       },
       {
+        "rank": 60,
         "id": "c_060",
         "name_en": "Yellow Roll Cake",
         "level_req": 1,
@@ -4216,6 +4506,7 @@
         "notes": ""
       },
       {
+        "rank": 61,
         "id": "c_061",
         "name_en": "Apple Frosted Pancake",
         "level_req": 1,
@@ -4229,6 +4520,7 @@
         "notes": ""
       },
       {
+        "rank": 62,
         "id": "c_062",
         "name_en": "Aurora Banquet",
         "level_req": 1,
@@ -4242,6 +4534,7 @@
         "notes": ""
       },
       {
+        "rank": 63,
         "id": "c_063",
         "name_en": "Blueberry Frosted Pancake",
         "level_req": 1,
@@ -4255,6 +4548,7 @@
         "notes": ""
       },
       {
+        "rank": 64,
         "id": "c_064",
         "name_en": "Creamy White Radish Soup",
         "level_req": 1,
@@ -4268,6 +4562,7 @@
         "notes": ""
       },
       {
+        "rank": 65,
         "id": "c_065",
         "name_en": "Iced Coffee",
         "level_req": 1,
@@ -4281,6 +4576,7 @@
         "notes": ""
       },
       {
+        "rank": 66,
         "id": "c_066",
         "name_en": "Iced Latte",
         "level_req": 1,
@@ -4294,6 +4590,7 @@
         "notes": ""
       },
       {
+        "rank": 67,
         "id": "c_067",
         "name_en": "Mandarin Frosted Pancake",
         "level_req": 1,
@@ -4307,6 +4604,7 @@
         "notes": ""
       },
       {
+        "rank": 68,
         "id": "c_068",
         "name_en": "Original Frosted Pancake",
         "level_req": 1,
@@ -4320,6 +4618,7 @@
         "notes": ""
       },
       {
+        "rank": 69,
         "id": "c_069",
         "name_en": "Raspberry Frosted Pancake",
         "level_req": 1,
@@ -4333,6 +4632,7 @@
         "notes": ""
       },
       {
+        "rank": 70,
         "id": "c_070",
         "name_en": "Steak w/ Mashed White Radish",
         "level_req": 1,
@@ -4346,6 +4646,7 @@
         "notes": ""
       },
       {
+        "rank": 71,
         "id": "c_071",
         "name_en": "Onsen Egg",
         "level_req": 1,
@@ -4359,6 +4660,7 @@
         "notes": ""
       },
       {
+        "rank": 72,
         "id": "c_072",
         "name_en": "Savory Popcorn Bucket",
         "level_req": 1,
@@ -4372,6 +4674,7 @@
         "notes": ""
       },
       {
+        "rank": 73,
         "id": "c_073",
         "name_en": "Caramel Popcorn Bucket",
         "level_req": 1,
@@ -4385,6 +4688,7 @@
         "notes": ""
       },
       {
+        "rank": 74,
         "id": "c_074",
         "name_en": "Salsa Wavy Potato Chips",
         "level_req": 1,
@@ -4398,6 +4702,7 @@
         "notes": ""
       },
       {
+        "rank": 75,
         "id": "c_075",
         "name_en": "Savory Double Combo Bucket",
         "level_req": 1,
@@ -4411,6 +4716,7 @@
         "notes": ""
       },
       {
+        "rank": 76,
         "id": "c_076",
         "name_en": "Sweet Double Combo Bucket",
         "level_req": 1,
@@ -4424,6 +4730,7 @@
         "notes": ""
       },
       {
+        "rank": 77,
         "id": "c_077",
         "name_en": "Romaine Lettuce Taco",
         "level_req": 1,
@@ -4437,6 +4744,7 @@
         "notes": ""
       },
       {
+        "rank": 78,
         "id": "c_078",
         "name_en": "Wild Vegetable Celtuce Taco",
         "level_req": 1,
@@ -4450,6 +4758,7 @@
         "notes": ""
       },
       {
+        "rank": 79,
         "id": "c_079",
         "name_en": "Wild Braken Celtuce Taco",
         "level_req": 1,
@@ -4463,6 +4772,7 @@
         "notes": ""
       },
       {
+        "rank": 80,
         "id": "c_080",
         "name_en": "Wild Garlic Mustard Celtuce Taco",
         "level_req": 1,
@@ -4476,6 +4786,7 @@
         "notes": ""
       },
       {
+        "rank": 81,
         "id": "c_081",
         "name_en": "Wild Burdock Celtuce Taco",
         "level_req": 1,
@@ -4489,6 +4800,7 @@
         "notes": ""
       },
       {
+        "rank": 82,
         "id": "c_082",
         "name_en": "Wild Mustard Greens Celtuce Taco",
         "level_req": 1,
@@ -4502,6 +4814,7 @@
         "notes": ""
       },
       {
+        "rank": 83,
         "id": "c_083",
         "name_en": "Springday Fruit Black Tea",
         "level_req": 1,
@@ -4515,6 +4828,7 @@
         "notes": ""
       },
       {
+        "rank": 84,
         "id": "c_084",
         "name_en": "Springday Apple Black Tea",
         "level_req": 1,
@@ -4528,6 +4842,7 @@
         "notes": ""
       },
       {
+        "rank": 85,
         "id": "c_085",
         "name_en": "Springday Mandarin Black Tea",
         "level_req": 1,
@@ -4541,6 +4856,7 @@
         "notes": ""
       },
       {
+        "rank": 86,
         "id": "c_086",
         "name_en": "Springday Blueberry Black Tea",
         "level_req": 1,
@@ -4554,6 +4870,7 @@
         "notes": ""
       },
       {
+        "rank": 87,
         "id": "c_087",
         "name_en": "Springday Raspberry Black Tea",
         "level_req": 1,
@@ -4567,6 +4884,7 @@
         "notes": ""
       },
       {
+        "rank": 88,
         "id": "c_088",
         "name_en": "Springday Strawberry Black Tea",
         "level_req": 1,
@@ -4580,6 +4898,7 @@
         "notes": ""
       },
       {
+        "rank": 89,
         "id": "c_089",
         "name_en": "Springday Grape Black Tea",
         "level_req": 1,
@@ -4593,6 +4912,7 @@
         "notes": ""
       },
       {
+        "rank": 90,
         "id": "c_090",
         "name_en": "Springday Pineapple Black Tea",
         "level_req": 1,
@@ -4606,6 +4926,7 @@
         "notes": ""
       },
       {
+        "rank": 91,
         "id": "c_091",
         "name_en": "Colorful Movie Combo",
         "level_req": 1,
@@ -4619,6 +4940,7 @@
         "notes": ""
       },
       {
+        "rank": 92,
         "id": "c_092",
         "name_en": "Supreme Movie Meal",
         "level_req": 1,
@@ -4634,6 +4956,7 @@
     ],
     "crop": [
       {
+        "rank": 1,
         "id": "cr_001",
         "name_en": "🌽 Corn",
         "level_req": 6,
@@ -4646,6 +4969,7 @@
         "is_active": ""
       },
       {
+        "rank": 2,
         "id": "cr_002",
         "name_en": "🌾 Wheat",
         "level_req": 2,
@@ -4658,6 +4982,7 @@
         "is_active": ""
       },
       {
+        "rank": 3,
         "id": "cr_003",
         "name_en": "🍅 Tomato",
         "level_req": 1,
@@ -4670,6 +4995,7 @@
         "is_active": ""
       },
       {
+        "rank": 4,
         "id": "cr_004",
         "name_en": "🍆 Eggplant",
         "level_req": 8,
@@ -4682,6 +5008,7 @@
         "is_active": ""
       },
       {
+        "rank": 5,
         "id": "cr_005",
         "name_en": "🍇 Grape",
         "level_req": 7,
@@ -4694,6 +5021,7 @@
         "is_active": ""
       },
       {
+        "rank": 6,
         "id": "cr_006",
         "name_en": "🍍 Pineapple",
         "level_req": 4,
@@ -4706,6 +5034,7 @@
         "is_active": ""
       },
       {
+        "rank": 7,
         "id": "cr_007",
         "name_en": "🍓 Strawberry",
         "level_req": 6,
@@ -4718,6 +5047,7 @@
         "is_active": ""
       },
       {
+        "rank": 8,
         "id": "cr_008",
         "name_en": "🍫 Cacao",
         "level_req": 12,
@@ -4730,6 +5060,7 @@
         "is_active": ""
       },
       {
+        "rank": 9,
         "id": "cr_009",
         "name_en": "🍵 Tea Tree",
         "level_req": 11,
@@ -4742,6 +5073,7 @@
         "is_active": ""
       },
       {
+        "rank": 10,
         "id": "cr_010",
         "name_en": "🥑 Avocado",
         "level_req": 13,
@@ -4754,6 +5086,7 @@
         "is_active": ""
       },
       {
+        "rank": 11,
         "id": "cr_011",
         "name_en": "🥔 Potatoes",
         "level_req": 1,
@@ -4766,6 +5099,7 @@
         "is_active": ""
       },
       {
+        "rank": 12,
         "id": "cr_012",
         "name_en": "🥕 Carrot",
         "level_req": 5,
@@ -4778,6 +5112,7 @@
         "is_active": ""
       },
       {
+        "rank": 13,
         "id": "cr_013",
         "name_en": "🥬 Lettuce",
         "level_req": 3,
@@ -4790,6 +5125,7 @@
         "is_active": ""
       },
       {
+        "rank": 14,
         "id": "cr_014",
         "name_en": "⬜ Winter Frost Season: White Radish",
         "level_req": 1,
@@ -4802,6 +5138,7 @@
         "is_active": ""
       },
       {
+        "rank": 15,
         "id": "cr_015",
         "name_en": "Romaine ",
         "level_req": 1,
@@ -4816,6 +5153,7 @@
     ],
     "flower": [
       {
+        "rank": 1,
         "id": "fl_001",
         "name_en": "Daisy",
         "level_req": 3,
@@ -4829,6 +5167,7 @@
         "is_active": ""
       },
       {
+        "rank": 2,
         "id": "fl_002",
         "name_en": "Pansy",
         "level_req": 4,
@@ -4842,6 +5181,7 @@
         "is_active": ""
       },
       {
+        "rank": 3,
         "id": "fl_003",
         "name_en": "Laceleaf",
         "level_req": 5,
@@ -4855,6 +5195,7 @@
         "is_active": ""
       },
       {
+        "rank": 4,
         "id": "fl_004",
         "name_en": "Corn Poppy",
         "level_req": 5,
@@ -4868,6 +5209,7 @@
         "is_active": ""
       },
       {
+        "rank": 5,
         "id": "fl_005",
         "name_en": "Calla Lily",
         "level_req": 6,
@@ -4881,6 +5223,7 @@
         "is_active": ""
       },
       {
+        "rank": 6,
         "id": "fl_006",
         "name_en": "Morning Glory",
         "level_req": 6,
@@ -4894,6 +5237,7 @@
         "is_active": ""
       },
       {
+        "rank": 7,
         "id": "fl_007",
         "name_en": "Carnation",
         "level_req": 7,
@@ -4907,6 +5251,7 @@
         "is_active": ""
       },
       {
+        "rank": 8,
         "id": "fl_008",
         "name_en": "Tulip",
         "level_req": 8,
@@ -4920,6 +5265,7 @@
         "is_active": ""
       },
       {
+        "rank": 9,
         "id": "fl_009",
         "name_en": "Lily",
         "level_req": 9,
@@ -4933,6 +5279,7 @@
         "is_active": ""
       },
       {
+        "rank": 10,
         "id": "fl_010",
         "name_en": "Rose",
         "level_req": 10,
@@ -4946,6 +5293,7 @@
         "is_active": ""
       },
       {
+        "rank": 11,
         "id": "fl_011",
         "name_en": "Cranesbill",
         "level_req": 13,
@@ -4959,6 +5307,7 @@
         "is_active": ""
       },
       {
+        "rank": 12,
         "id": "fl_012",
         "name_en": "Hyacinth",
         "level_req": 11,
@@ -4972,6 +5321,7 @@
         "is_active": ""
       },
       {
+        "rank": 13,
         "id": "fl_013",
         "name_en": "Moth Orchid",
         "level_req": 12,
@@ -4985,6 +5335,7 @@
         "is_active": ""
       },
       {
+        "rank": 14,
         "id": "fl_014",
         "name_en": "Highland Poppy",
         "level_req": 1,
@@ -4998,6 +5349,7 @@
         "is_active": ""
       },
       {
+        "rank": 15,
         "id": "fl_015",
         "name_en": "Dandelion ",
         "level_req": 1,
@@ -5013,6 +5365,7 @@
     ],
     "puzzle": [
       {
+        "rank": 1,
         "id": "p_001",
         "name_en": "Town Hall",
         "location": "Ka Ching’s General Store",
@@ -5023,6 +5376,7 @@
         "is_active": ""
       },
       {
+        "rank": 2,
         "id": "p_002",
         "name_en": "Art Street Entrance",
         "location": "Dream Reward",
@@ -5033,6 +5387,7 @@
         "is_active": ""
       },
       {
+        "rank": 3,
         "id": "p_003",
         "name_en": "Clothing Store Front",
         "location": "Ka Ching’s General Store",
@@ -5043,6 +5398,7 @@
         "is_active": ""
       },
       {
+        "rank": 4,
         "id": "p_004",
         "name_en": "Mountain Spring Cottage",
         "location": "Ka Ching’s General Store",
@@ -5053,6 +5409,7 @@
         "is_active": ""
       },
       {
+        "rank": 5,
         "id": "p_005",
         "name_en": "Sunlit Island",
         "location": "Ka Ching’s General Store",
@@ -5063,6 +5420,7 @@
         "is_active": ""
       },
       {
+        "rank": 6,
         "id": "p_006",
         "name_en": "Fishing Village Vista",
         "location": "Ka Ching’s General Store",
@@ -5073,6 +5431,7 @@
         "is_active": ""
       },
       {
+        "rank": 7,
         "id": "p_007",
         "name_en": "Whale Mountain",
         "location": "Ka Ching’s General Store",
@@ -5083,6 +5442,7 @@
         "is_active": ""
       },
       {
+        "rank": 8,
         "id": "p_008",
         "name_en": "Hot Air Balloon",
         "location": "Ka Ching’s General Store",
@@ -5093,6 +5453,7 @@
         "is_active": ""
       },
       {
+        "rank": 9,
         "id": "p_009",
         "name_en": "Seaside Lighthouse",
         "location": "Ka Ching’s General Store",
@@ -5103,6 +5464,7 @@
         "is_active": ""
       },
       {
+        "rank": 10,
         "id": "p_010",
         "name_en": "Whale Fountain",
         "location": "Ka Ching’s General Store",
@@ -5113,6 +5475,7 @@
         "is_active": ""
       },
       {
+        "rank": 11,
         "id": "p_011",
         "name_en": "Traveling Panda",
         "location": "Animal Bond Level Gift",
@@ -5123,6 +5486,7 @@
         "is_active": ""
       },
       {
+        "rank": 12,
         "id": "p_012",
         "name_en": "Relaxed Capybara",
         "location": "Animal Bond Level Gift",
@@ -5133,6 +5497,7 @@
         "is_active": ""
       },
       {
+        "rank": 13,
         "id": "p_013",
         "name_en": "Bunny’s Tea Time",
         "location": "Animal Bond Level Gift",
@@ -5143,6 +5508,7 @@
         "is_active": ""
       },
       {
+        "rank": 14,
         "id": "p_014",
         "name_en": "Fox of Whale Mountain",
         "location": "Animal Bond Level Gift",
@@ -5153,6 +5519,7 @@
         "is_active": ""
       },
       {
+        "rank": 15,
         "id": "p_015",
         "name_en": "Sea Otter’s Watch",
         "location": "Animal Bond Level Gift",
@@ -5163,6 +5530,7 @@
         "is_active": ""
       },
       {
+        "rank": 16,
         "id": "p_016",
         "name_en": "Ferret’s Merry Moment",
         "location": "Animal Bond Level Gift",
@@ -5173,6 +5541,7 @@
         "is_active": ""
       },
       {
+        "rank": 17,
         "id": "p_017",
         "name_en": "Strolling Deer",
         "location": "Animal Bond Level Gift",
@@ -5183,6 +5552,7 @@
         "is_active": ""
       },
       {
+        "rank": 18,
         "id": "p_018",
         "name_en": "Alpaca & Night",
         "location": "Animal Bond Level Gift",
@@ -5193,6 +5563,7 @@
         "is_active": ""
       },
       {
+        "rank": 19,
         "id": "p_019",
         "name_en": "Art Street Center",
         "location": "Ka Ching’s General Store",
@@ -5203,6 +5574,7 @@
         "is_active": ""
       },
       {
+        "rank": 20,
         "id": "p_020",
         "name_en": "Bookstall Corner",
         "location": "Ka Ching’s General Store",
@@ -5213,6 +5585,7 @@
         "is_active": ""
       },
       {
+        "rank": 21,
         "id": "p_021",
         "name_en": "Residential Street Entrance",
         "location": "Ka Ching’s General Store",
@@ -5223,6 +5596,7 @@
         "is_active": ""
       },
       {
+        "rank": 22,
         "id": "p_022",
         "name_en": "Leisure Time",
         "location": "Ka Ching’s General Store",
@@ -5233,6 +5607,7 @@
         "is_active": ""
       },
       {
+        "rank": 23,
         "id": "p_023",
         "name_en": "Full Moon Night",
         "location": "Ka Ching’s General Store",
@@ -5243,6 +5618,7 @@
         "is_active": ""
       },
       {
+        "rank": 24,
         "id": "p_024",
         "name_en": "Windmill Flower Field",
         "location": "Dream Reward",
@@ -5253,6 +5629,7 @@
         "is_active": ""
       },
       {
+        "rank": 25,
         "id": "p_025",
         "name_en": "Oak-Oak",
         "location": "Ka Ching’s General Store",
@@ -5263,6 +5640,7 @@
         "is_active": ""
       },
       {
+        "rank": 26,
         "id": "p_026",
         "name_en": "Fishing Village Square",
         "location": "Ka Ching’s General Store",
@@ -5273,6 +5651,7 @@
         "is_active": ""
       },
       {
+        "rank": 27,
         "id": "p_027",
         "name_en": "Garden Pavilion",
         "location": "Ka Ching’s General Store",
@@ -5283,6 +5662,7 @@
         "is_active": ""
       },
       {
+        "rank": 28,
         "id": "p_028",
         "name_en": "Yellow Duck Jump Puzzle",
         "location": "Ka Ching’s General Store",
@@ -5293,6 +5673,7 @@
         "is_active": ""
       },
       {
+        "rank": 29,
         "id": "p_029",
         "name_en": "Pandas & Bamboo",
         "location": "Animal Bond Level Gift",
@@ -5303,6 +5684,7 @@
         "is_active": ""
       },
       {
+        "rank": 30,
         "id": "p_030",
         "name_en": "Bumping Capybaras",
         "location": "Animal Bond Level Gift",
@@ -5313,6 +5695,7 @@
         "is_active": ""
       },
       {
+        "rank": 31,
         "id": "p_031",
         "name_en": "Bunny Friends",
         "location": "Animal Bond Level Gift",
@@ -5323,6 +5706,7 @@
         "is_active": ""
       },
       {
+        "rank": 32,
         "id": "p_032",
         "name_en": "Roaming Fox",
         "location": "Animal Bond Level Gift",
@@ -5333,6 +5717,7 @@
         "is_active": ""
       },
       {
+        "rank": 33,
         "id": "p_033",
         "name_en": "Playful Sea Otters",
         "location": "Animal Bond Level Gift",
@@ -5343,6 +5728,7 @@
         "is_active": ""
       },
       {
+        "rank": 34,
         "id": "p_034",
         "name_en": "Foraging Ferret",
         "location": "Animal Bond Level Gift",
@@ -5353,6 +5739,7 @@
         "is_active": ""
       },
       {
+        "rank": 35,
         "id": "p_035",
         "name_en": "Adult & Young Deer",
         "location": "Animal Bond Level Gift",
@@ -5363,6 +5750,7 @@
         "is_active": ""
       },
       {
+        "rank": 36,
         "id": "p_036",
         "name_en": "Alpaca Family",
         "location": "Animal Bond Level Gift",
@@ -5373,6 +5761,7 @@
         "is_active": ""
       },
       {
+        "rank": 37,
         "id": "p_037",
         "name_en": "Growing With Bears",
         "location": "Animal Bond Level Gift",
@@ -5383,6 +5772,7 @@
         "is_active": ""
       },
       {
+        "rank": 38,
         "id": "p_038",
         "name_en": "Capybara Reunion",
         "location": "Animal Bond Level Gift",
@@ -5393,6 +5783,7 @@
         "is_active": ""
       },
       {
+        "rank": 39,
         "id": "p_039",
         "name_en": "Naughty Bunny",
         "location": "Animal Bond Level Gift",
@@ -5403,6 +5794,7 @@
         "is_active": ""
       },
       {
+        "rank": 40,
         "id": "p_040",
         "name_en": "Latecoming Fox",
         "location": "Animal Bond Level Gift",
@@ -5413,6 +5805,7 @@
         "is_active": ""
       },
       {
+        "rank": 41,
         "id": "p_041",
         "name_en": "Floating Sea Otter",
         "location": "Animal Bond Level Gift",
@@ -5423,6 +5816,7 @@
         "is_active": ""
       },
       {
+        "rank": 42,
         "id": "p_042",
         "name_en": "Ferret on the Beam",
         "location": "Animal Bond Level Gift",
@@ -5433,6 +5827,7 @@
         "is_active": ""
       },
       {
+        "rank": 43,
         "id": "p_043",
         "name_en": "Happy Deer Family",
         "location": "Animal Bond Level Gift",
@@ -5443,6 +5838,7 @@
         "is_active": ""
       },
       {
+        "rank": 44,
         "id": "p_044",
         "name_en": "Sunbathing Alpaca",
         "location": "Animal Bond Level Gift",
@@ -5453,6 +5849,7 @@
         "is_active": ""
       },
       {
+        "rank": 45,
         "id": "p_045",
         "name_en": "Heart Hedge",
         "location": "Ka Ching’s General Store",
@@ -5463,6 +5860,7 @@
         "is_active": ""
       },
       {
+        "rank": 46,
         "id": "p_046",
         "name_en": "Cozy Cafe",
         "location": "Ka Ching’s General Store",
@@ -5473,6 +5871,7 @@
         "is_active": ""
       },
       {
+        "rank": 47,
         "id": "p_047",
         "name_en": "Fishing Village Fountain",
         "location": "Ka Ching’s General Store",
@@ -5483,6 +5882,7 @@
         "is_active": ""
       },
       {
+        "rank": 48,
         "id": "p_048",
         "name_en": "Forest Stream",
         "location": "Ka Ching’s General Store",
@@ -5493,6 +5893,7 @@
         "is_active": ""
       },
       {
+        "rank": 49,
         "id": "p_049",
         "name_en": "Beach Fun",
         "location": "Ka Ching’s General Store",
@@ -5503,6 +5904,7 @@
         "is_active": ""
       },
       {
+        "rank": 50,
         "id": "p_050",
         "name_en": "Onsen Mountain Lake",
         "location": "Ka Ching’s General Store",
@@ -5513,6 +5915,7 @@
         "is_active": ""
       },
       {
+        "rank": 51,
         "id": "p_051",
         "name_en": "Woodland Night Camping",
         "location": "Dream Reward",
@@ -5523,6 +5926,7 @@
         "is_active": ""
       },
       {
+        "rank": 52,
         "id": "p_052",
         "name_en": "Leisurely Fishing Boat",
         "location": "Ka Ching’s General Store",
@@ -5533,6 +5937,7 @@
         "is_active": ""
       },
       {
+        "rank": 53,
         "id": "p_053",
         "name_en": "Eerie Party",
         "location": "Ka Ching’s General Store",
@@ -5543,6 +5948,7 @@
         "is_active": ""
       },
       {
+        "rank": 54,
         "id": "p_054",
         "name_en": "Spring Festival Memory",
         "location": "Ka Ching’s General Store",
@@ -5553,6 +5959,7 @@
         "is_active": ""
       },
       {
+        "rank": 55,
         "id": "p_055",
         "name_en": "Solitary Panda",
         "location": "Animal Bond Level Gift",
@@ -5563,6 +5970,7 @@
         "is_active": ""
       },
       {
+        "rank": 56,
         "id": "p_056",
         "name_en": "Crossing Paths",
         "location": "Animal Bond Level Gift",
@@ -5573,6 +5981,7 @@
         "is_active": ""
       },
       {
+        "rank": 57,
         "id": "p_057",
         "name_en": "Bookworm Bunny",
         "location": "Animal Bond Level Gift",
@@ -5583,6 +5992,7 @@
         "is_active": ""
       },
       {
+        "rank": 58,
         "id": "p_058",
         "name_en": "Fox Camping",
         "location": "Animal Bond Level Gift",
@@ -5593,6 +6003,7 @@
         "is_active": ""
       },
       {
+        "rank": 59,
         "id": "p_059",
         "name_en": "Lazy Sea Otter",
         "location": "Animal Bond Level Gift",
@@ -5603,6 +6014,7 @@
         "is_active": ""
       },
       {
+        "rank": 60,
         "id": "p_060",
         "name_en": "Family Outing",
         "location": "Animal Bond Level Gift",
@@ -5613,6 +6025,7 @@
         "is_active": ""
       },
       {
+        "rank": 61,
         "id": "p_061",
         "name_en": "Creek-Crossing Deer",
         "location": "Animal Bond Level Gift",
@@ -5623,6 +6036,7 @@
         "is_active": ""
       },
       {
+        "rank": 62,
         "id": "p_062",
         "name_en": "Alpaca Stroll",
         "location": "Animal Bond Level Gift",
@@ -5633,6 +6047,7 @@
         "is_active": ""
       },
       {
+        "rank": 63,
         "id": "p_063",
         "name_en": "Residential Street Corner",
         "location": "Ka Ching’s General Store",
@@ -5643,6 +6058,7 @@
         "is_active": ""
       },
       {
+        "rank": 64,
         "id": "p_064",
         "name_en": "Melody of Piano",
         "location": "Ka Ching’s General Store",
@@ -5653,6 +6069,7 @@
         "is_active": ""
       },
       {
+        "rank": 65,
         "id": "p_065",
         "name_en": "Fireworks Festival",
         "location": "Dream Reward",
@@ -5663,6 +6080,7 @@
         "is_active": ""
       },
       {
+        "rank": 66,
         "id": "p_066",
         "name_en": "Camp Fun",
         "location": "Dream Reward",
@@ -5673,6 +6091,7 @@
         "is_active": ""
       },
       {
+        "rank": 67,
         "id": "p_067",
         "name_en": "Capybara Statues",
         "location": "Ka Ching’s General Store",
@@ -5683,6 +6102,7 @@
         "is_active": ""
       },
       {
+        "rank": 68,
         "id": "p_068",
         "name_en": "Parking Lot",
         "location": "Ka Ching’s General Store",
@@ -5693,6 +6113,7 @@
         "is_active": ""
       },
       {
+        "rank": 69,
         "id": "p_069",
         "name_en": "Forest Suspension Bridge",
         "location": "Ka Ching’s General Store",
@@ -5703,6 +6124,7 @@
         "is_active": ""
       },
       {
+        "rank": 70,
         "id": "p_070",
         "name_en": "Suburbs Parking",
         "location": "Ka Ching’s General Store",
@@ -5713,6 +6135,7 @@
         "is_active": ""
       },
       {
+        "rank": 71,
         "id": "p_071",
         "name_en": "Whale Cloud",
         "location": "Ka Ching’s General Store",
@@ -5723,6 +6146,7 @@
         "is_active": ""
       },
       {
+        "rank": 72,
         "id": "p_072",
         "name_en": "Coconut Trees Under Sky",
         "location": "Ka Ching’s General Store",
@@ -5733,6 +6157,7 @@
         "is_active": ""
       },
       {
+        "rank": 73,
         "id": "p_073",
         "name_en": "Mushroom & Deer",
         "location": "Gossip Quest",
@@ -5743,6 +6168,7 @@
         "is_active": ""
       },
       {
+        "rank": 74,
         "id": "p_074",
         "name_en": "Bizzarre Mushroom Tower",
         "location": "Gossip Quest",
@@ -5753,6 +6179,7 @@
         "is_active": ""
       },
       {
+        "rank": 75,
         "id": "p_075",
         "name_en": "Panda Family",
         "location": "Animal Bond Level Gift",
@@ -5763,6 +6190,7 @@
         "is_active": ""
       },
       {
+        "rank": 76,
         "id": "p_076",
         "name_en": "Capybara Mountain",
         "location": "Animal Bond Level Gift",
@@ -5773,6 +6201,7 @@
         "is_active": ""
       },
       {
+        "rank": 77,
         "id": "p_077",
         "name_en": "Bunny in a Row",
         "location": "Animal Bond Level Gift",
@@ -5783,6 +6212,7 @@
         "is_active": ""
       },
       {
+        "rank": 78,
         "id": "p_078",
         "name_en": "Foxes Admiring Flowers",
         "location": "Animal Bond Level Gift",
@@ -5793,6 +6223,7 @@
         "is_active": ""
       },
       {
+        "rank": 79,
         "id": "p_079",
         "name_en": "Sea Otter’s Pier Gaze",
         "location": "Animal Bond Level Gift",
@@ -5803,6 +6234,7 @@
         "is_active": ""
       },
       {
+        "rank": 80,
         "id": "p_080",
         "name_en": "Ferret Gathering",
         "location": "Animal Bond Level Gift",
@@ -5813,6 +6245,7 @@
         "is_active": ""
       },
       {
+        "rank": 81,
         "id": "p_081",
         "name_en": "Innocent Deer",
         "location": "Animal Bond Level Gift",
@@ -5823,6 +6256,7 @@
         "is_active": ""
       },
       {
+        "rank": 82,
         "id": "p_082",
         "name_en": "Alpaca’s Journey",
         "location": "Animal Bond Level Gift",
@@ -5833,6 +6267,7 @@
         "is_active": ""
       },
       {
+        "rank": 83,
         "id": "p_083",
         "name_en": "Celestial Aurora",
         "location": "Fashionwave Store",
@@ -5843,6 +6278,7 @@
         "is_active": ""
       },
       {
+        "rank": 84,
         "id": "p_084",
         "name_en": "Snow Concert",
         "location": "Fashionwave Store",
@@ -5853,6 +6289,7 @@
         "is_active": ""
       },
       {
+        "rank": 85,
         "id": "p_085",
         "name_en": "Snowman's Melody",
         "location": "Fashionwave Store",
@@ -5863,6 +6300,7 @@
         "is_active": ""
       },
       {
+        "rank": 86,
         "id": "p_086",
         "name_en": "Glistening Snowscape",
         "location": "Fashionwave Store",
@@ -5873,6 +6311,7 @@
         "is_active": ""
       },
       {
+        "rank": 87,
         "id": "p_087",
         "name_en": "Penguin Fashion",
         "location": "Fashionwave Store",
@@ -5883,6 +6322,7 @@
         "is_active": ""
       },
       {
+        "rank": 88,
         "id": "p_088",
         "name_en": "Penguin Parent",
         "location": "Fashionwave Store",
@@ -5893,6 +6333,7 @@
         "is_active": ""
       },
       {
+        "rank": 89,
         "id": "p_089",
         "name_en": "Penguin Hunting",
         "location": "Fashionwave Store",
@@ -5903,6 +6344,7 @@
         "is_active": ""
       },
       {
+        "rank": 90,
         "id": "p_090",
         "name_en": "Penguin Viewing Area",
         "location": "Fashionwave Store",
@@ -5913,6 +6355,7 @@
         "is_active": ""
       },
       {
+        "rank": 91,
         "id": "p_091",
         "name_en": "Chef Moe",
         "location": "Fashionwave Store",
@@ -5923,6 +6366,7 @@
         "is_active": ""
       },
       {
+        "rank": 92,
         "id": "p_092",
         "name_en": "Snowy Coast",
         "location": "Fashionwave Store",
@@ -5933,6 +6377,7 @@
         "is_active": ""
       },
       {
+        "rank": 93,
         "id": "p_093",
         "name_en": "Penguin's Adventure",
         "location": "Animal Bond Level Gift",
@@ -5943,6 +6388,7 @@
         "is_active": ""
       },
       {
+        "rank": 94,
         "id": "p_094",
         "name_en": "Swimming Lessons",
         "location": "Animal Bond Level Gift",
@@ -5953,6 +6399,7 @@
         "is_active": ""
       },
       {
+        "rank": 95,
         "id": "p_095",
         "name_en": "Fiddlehead Tower",
         "location": "Fashionwave Store",
@@ -5963,6 +6410,7 @@
         "is_active": ""
       },
       {
+        "rank": 96,
         "id": "p_096",
         "name_en": "Tall Mustard Mountain",
         "location": "Fashionwave Store",
@@ -5973,6 +6421,7 @@
         "is_active": ""
       },
       {
+        "rank": 97,
         "id": "p_097",
         "name_en": "Burdock Tree",
         "location": "Fashionwave Store",
@@ -5983,6 +6432,7 @@
         "is_active": ""
       },
       {
+        "rank": 98,
         "id": "p_098",
         "name_en": "Mustard Greens Sea",
         "location": "Fashionwave Store",
@@ -5995,6 +6445,7 @@
     ],
     "resource": [
       {
+        "rank": 1,
         "id": "r-001",
         "nameEn": "Apple",
         "location": "Home",
@@ -6003,7 +6454,8 @@
         "energy_gain": 8
       },
       {
-        "id": "",
+        "rank": 2,
+        "id": "r-002",
         "nameEn": "Bamboo",
         "location": "Bamboo",
         "activity": "Daily",
@@ -6011,7 +6463,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 3,
+        "id": "r-003",
         "nameEn": "Bizarre Button Mushroom (Green)",
         "location": "Flower Field",
         "activity": "Daily",
@@ -6019,7 +6472,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 4,
+        "id": "r-004",
         "nameEn": "Bizarre Button Mushroom (Pink)",
         "location": "Flower Field",
         "activity": "Daily",
@@ -6027,7 +6481,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 5,
+        "id": "r-005",
         "nameEn": "Bizarre Oyster Mushroom (Orange)",
         "location": "Onsen Mountain",
         "activity": "Daily",
@@ -6035,7 +6490,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 6,
+        "id": "r-006",
         "nameEn": "Bizarre Oyster Mushroom (Pink)",
         "location": "Onsen Mountain",
         "activity": "Daily",
@@ -6043,7 +6499,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 7,
+        "id": "r-007",
         "nameEn": "Bizarre Oyster Mushroom (Purple)",
         "location": "Onsen Mountain",
         "activity": "Daily",
@@ -6051,7 +6508,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 8,
+        "id": "r-008",
         "nameEn": "Bizarre Shiitake (Blue)",
         "location": "Fishing Village",
         "activity": "Daily",
@@ -6059,7 +6517,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 9,
+        "id": "r-009",
         "nameEn": "Bizarre Shiitake (Red)",
         "location": "Fishing Village",
         "activity": "Daily",
@@ -6067,7 +6526,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 10,
+        "id": "r-010",
         "nameEn": "Bizzare Black Truffle (White)",
         "location": "",
         "activity": "Daily",
@@ -6075,7 +6535,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 11,
+        "id": "r-011",
         "nameEn": "Bizzare Button Mushroom (Blue)",
         "location": "Flower Field",
         "activity": "Daily",
@@ -6083,7 +6544,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 12,
+        "id": "r-012",
         "nameEn": "Bizzare Penny Bun (Pink)",
         "location": "Forest",
         "activity": "Daily",
@@ -6091,7 +6553,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 13,
+        "id": "r-013",
         "nameEn": "Bizzare Penny Bun (Purple)",
         "location": "Forest",
         "activity": "Daily",
@@ -6099,7 +6562,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 14,
+        "id": "r-014",
         "nameEn": "Bizzare Penny Bun (Red)",
         "location": "Forest",
         "activity": "Daily",
@@ -6107,7 +6571,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 15,
+        "id": "r-015",
         "nameEn": "Bizzare Shiitake (Black)",
         "location": "Fishing Village",
         "activity": "Daily",
@@ -6115,7 +6580,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 16,
+        "id": "r-016",
         "nameEn": "Black Truffle",
         "location": "Forest (Forest Island)",
         "activity": "Daily",
@@ -6123,7 +6589,8 @@
         "energy_gain": 25
       },
       {
-        "id": "",
+        "rank": 17,
+        "id": "r-017",
         "nameEn": "Blueberry",
         "location": "Home",
         "activity": "Daily",
@@ -6131,7 +6598,8 @@
         "energy_gain": 5
       },
       {
-        "id": "",
+        "rank": 18,
+        "id": "r-018",
         "nameEn": "Branch",
         "location": "Bushes",
         "activity": "Daily",
@@ -6139,7 +6607,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 19,
+        "id": "r-019",
         "nameEn": "Button Mushroom",
         "location": "Flower Field",
         "activity": "Daily",
@@ -6147,7 +6616,8 @@
         "energy_gain": 5
       },
       {
-        "id": "",
+        "rank": 20,
+        "id": "r-020",
         "nameEn": "Flawless Fluorite",
         "location": "Fluorite Mine",
         "activity": "Daily",
@@ -6155,7 +6625,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 21,
+        "id": "r-021",
         "nameEn": "Mandarin",
         "location": "Home",
         "activity": "Daily",
@@ -6163,7 +6634,8 @@
         "energy_gain": 8
       },
       {
-        "id": "",
+        "rank": 22,
+        "id": "r-022",
         "nameEn": "Matsutake",
         "location": "Forest (Spirit Oak Pine)",
         "activity": "Daily",
@@ -6171,7 +6643,8 @@
         "energy_gain": 5
       },
       {
-        "id": "",
+        "rank": 23,
+        "id": "r-023",
         "nameEn": "Ore",
         "location": "Home",
         "activity": "Daily",
@@ -6179,7 +6652,8 @@
         "energy_gain": 5
       },
       {
-        "id": "",
+        "rank": 24,
+        "id": "r-024",
         "nameEn": "Oyster Mushroom",
         "location": "Onsen Mountain",
         "activity": "Daily",
@@ -6187,7 +6661,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 25,
+        "id": "r-025",
         "nameEn": "Penny Bun",
         "location": "Forest",
         "activity": "Daily",
@@ -6195,7 +6670,8 @@
         "energy_gain": 5
       },
       {
-        "id": "",
+        "rank": 26,
+        "id": "r-026",
         "nameEn": "Quality Timber",
         "location": "Tree",
         "activity": "Daily",
@@ -6203,7 +6679,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 27,
+        "id": "r-027",
         "nameEn": "Rare Timber",
         "location": "Gigantic Tree in the Suburb",
         "activity": "Daily",
@@ -6211,7 +6688,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 28,
+        "id": "r-028",
         "nameEn": "Raspberry",
         "location": "Home",
         "activity": "Daily",
@@ -6219,7 +6697,8 @@
         "energy_gain": 7
       },
       {
-        "id": "",
+        "rank": 29,
+        "id": "r-029",
         "nameEn": "Roaming Oak Timber",
         "location": "Roaming Oak-Oak",
         "activity": "Daily",
@@ -6227,7 +6706,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 30,
+        "id": "r-030",
         "nameEn": "Shiitake",
         "location": "Fishing Village",
         "activity": "Daily",
@@ -6235,7 +6715,8 @@
         "energy_gain": 5
       },
       {
-        "id": "",
+        "rank": 31,
+        "id": "r-031",
         "nameEn": "Starfall Shard",
         "location": "Meteor Shower (Meteorite Ore)",
         "activity": "Daily",
@@ -6243,7 +6724,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 32,
+        "id": "r-032",
         "nameEn": "Stone",
         "location": "Home",
         "activity": "Daily",
@@ -6251,7 +6733,8 @@
         "energy_gain": ""
       },
       {
-        "id": "",
+        "rank": 33,
+        "id": "r-033",
         "nameEn": "Timber",
         "location": "Tree",
         "activity": "Daily",
@@ -6261,6 +6744,7 @@
     ],
     "achievement": [
       {
+        "rank": 1,
         "id": "a_001",
         "nameEn": "Never Empty-Handed",
         "hobby": "Fishing",
@@ -6268,6 +6752,7 @@
         "description": "Fishing Hobby reaches Lv. 10"
       },
       {
+        "rank": 2,
         "id": "a_002",
         "nameEn": "Mystic Fisher",
         "hobby": "Fishing",
@@ -6275,6 +6760,7 @@
         "description": "Trigger the hidden phase of Fishing Event 10 times in total."
       },
       {
+        "rank": 3,
         "id": "a_003",
         "nameEn": "Shoal's Blessing",
         "hobby": "Fishing",
@@ -6282,6 +6768,7 @@
         "description": "Trigger 100 Shoals in total during Fishing Events."
       },
       {
+        "rank": 4,
         "id": "a_004",
         "nameEn": "Strong Sailor",
         "hobby": "Fishing",
@@ -6289,6 +6776,7 @@
         "description": "Catch fish over 100kg for 2 consecutive times."
       },
       {
+        "rank": 5,
         "id": "a_005",
         "nameEn": "Twin Fish Fortune",
         "hobby": "Fishing",
@@ -6296,6 +6784,7 @@
         "description": "Catch 2 5-Star fish withing 1 min."
       },
       {
+        "rank": 6,
         "id": "a_006",
         "nameEn": "Fishing Machine",
         "hobby": "Fishing",
@@ -6303,6 +6792,7 @@
         "description": "Catch a total of 50 fish over 100kg each."
       },
       {
+        "rank": 7,
         "id": "a_007",
         "nameEn": "Shark Frenzy",
         "hobby": "Fishing",
@@ -6310,6 +6800,7 @@
         "description": "Catch 3 sharks from golden fish shadows during a single Sea Fishing Event."
       },
       {
+        "rank": 8,
         "id": "a_008",
         "nameEn": "Shoal Caller",
         "hobby": "Fishing",
@@ -6317,6 +6808,7 @@
         "description": "Trigger 3 Shoals in a single Fishing Event."
       },
       {
+        "rank": 9,
         "id": "a_009",
         "nameEn": "Starlight Fisher",
         "hobby": "Fishing",
@@ -6324,6 +6816,7 @@
         "description": "Catch 4 5-Star fish in a single Fishing Event."
       },
       {
+        "rank": 10,
         "id": "a_010",
         "nameEn": "Town Cooking Legend",
         "hobby": "Cooking",
@@ -6331,6 +6824,7 @@
         "description": "Cooking Hobby reaches Lv. 10."
       },
       {
+        "rank": 11,
         "id": "a_011",
         "nameEn": "Fast & Flawless",
         "hobby": "Cooking",
@@ -6338,6 +6832,7 @@
         "description": "Cook 2 5-Star dishes within 60s."
       },
       {
+        "rank": 12,
         "id": "a_012",
         "nameEn": "Green Touch",
         "hobby": "Gardening",
@@ -6345,6 +6840,7 @@
         "description": "Gardening Hobby reaches Lv. 10."
       },
       {
+        "rank": 13,
         "id": "a_013",
         "nameEn": "Plentiful Harvest",
         "hobby": "Gardening",
@@ -6352,6 +6848,7 @@
         "description": "Harvest 5-star crops while Bonus Harvest is active."
       },
       {
+        "rank": 14,
         "id": "a_014",
         "nameEn": "Rainbow Luck",
         "hobby": "Gardening",
@@ -6359,6 +6856,7 @@
         "description": "Trigger 2 Rainbow Hybrid Blessings in a single multi-area watering."
       },
       {
+        "rank": 15,
         "id": "a_015",
         "nameEn": "Ace Cat Servant",
         "hobby": "Cat Caring",
@@ -6366,6 +6864,7 @@
         "description": "Cat Caring Hobby reaches Lv. 10."
       },
       {
+        "rank": 16,
         "id": "a_016",
         "nameEn": "Meow-Meow Canteen",
         "hobby": "Cat Caring",
@@ -6373,6 +6872,7 @@
         "description": "Feed 5 cats their favourite food."
       },
       {
+        "rank": 17,
         "id": "a_017",
         "nameEn": "Ace Dog Trainer",
         "hobby": "Dog Caring",
@@ -6380,6 +6880,7 @@
         "description": "Dog Caring Hobby reaches Lv. 10."
       },
       {
+        "rank": 18,
         "id": "a_018",
         "nameEn": "Doggie Canteen",
         "hobby": "Dog Caring",
@@ -6387,6 +6888,7 @@
         "description": "Feed 3 dogs their favourite food."
       },
       {
+        "rank": 19,
         "id": "a_019",
         "nameEn": "Insect Commander",
         "hobby": "Insect Catching",
@@ -6394,6 +6896,7 @@
         "description": "Insect Catching Hobby reaches Lv. 10."
       },
       {
+        "rank": 20,
         "id": "a_020",
         "nameEn": "Mystic Tracker",
         "hobby": "Insect Catching",
@@ -6401,6 +6904,7 @@
         "description": "Trigger the hidden phase in Insect Catching Event 10 times in total."
       },
       {
+        "rank": 21,
         "id": "a_021",
         "nameEn": "Swarm Commander",
         "hobby": "Insect Catching",
@@ -6408,6 +6912,7 @@
         "description": "Trigger 100 Swarms inb total during Insect Catching Events."
       },
       {
+        "rank": 22,
         "id": "a_022",
         "nameEn": "Insect Harvester",
         "hobby": "Insect Catching",
@@ -6415,6 +6920,7 @@
         "description": "Catch 3 insects with a single insect-catching bubble."
       },
       {
+        "rank": 23,
         "id": "a_023",
         "nameEn": "Five Insects Blessing",
         "hobby": "Insect Catching",
@@ -6422,6 +6928,7 @@
         "description": "Catch 5 5-Star insects during a single Insect Catching Event."
       },
       {
+        "rank": 24,
         "id": "a_024",
         "nameEn": "Human Insect Attractor",
         "hobby": "Insect Catching",
@@ -6429,6 +6936,7 @@
         "description": "Trigger 4 Swarms in a single Insect Catching event."
       },
       {
+        "rank": 25,
         "id": "a_025",
         "nameEn": "Bird Whisperer",
         "hobby": "Birdwatching",
@@ -6436,6 +6944,7 @@
         "description": "Birdwatching Hobby reaches Lv. 10."
       },
       {
+        "rank": 26,
         "id": "a_026",
         "nameEn": "Cloud Walker",
         "hobby": "Birdwatching",
@@ -6443,6 +6952,7 @@
         "description": "Trigger the hidden phase of Birdwatching Event 10 times in total."
       },
       {
+        "rank": 27,
         "id": "a_027",
         "nameEn": "Harmony with Breeze",
         "hobby": "Birdwatching",
@@ -6450,6 +6960,7 @@
         "description": "Trigger 100 Bird Waves in total during Birdwatching Events."
       },
       {
+        "rank": 28,
         "id": "a_028",
         "nameEn": "Joyful Chorus",
         "hobby": "Birdwatching",
@@ -6457,6 +6968,7 @@
         "description": "Trigger 3 Bird Waves in a single Birdwatching Event."
       },
       {
+        "rank": 29,
         "id": "a_029",
         "nameEn": "Decisive Moment",
         "hobby": "Birdwatching",
@@ -6464,6 +6976,7 @@
         "description": "Obtain 10 5-Star Info Cards in a single Birdwatching Event."
       },
       {
+        "rank": 30,
         "id": "a_030",
         "nameEn": "Sand Sculpture Artist",
         "hobby": "Sand Sculpting",
@@ -6471,6 +6984,7 @@
         "description": "Sand Sculpting Hobby reaches Lv. 5."
       },
       {
+        "rank": 31,
         "id": "a_031",
         "nameEn": "Pumpkinarchy",
         "hobby": "Pumpkin Carving",
@@ -6478,6 +6992,7 @@
         "description": "Pumpkin Carving Hobby reaches Lv. 5."
       },
       {
+        "rank": 32,
         "id": "a_032",
         "nameEn": "Snow King",
         "hobby": "Snow Sculpting",
@@ -6485,6 +7000,7 @@
         "description": "Snow Sculpting Hobby reaches Lv. 5."
       },
       {
+        "rank": 33,
         "id": "a_033",
         "nameEn": "Collector",
         "hobby": "",
@@ -6492,6 +7008,7 @@
         "description": "Become an Expert Collector."
       },
       {
+        "rank": 34,
         "id": "a_034",
         "nameEn": "Rocket Sponsor",
         "hobby": "",
@@ -6499,6 +7016,7 @@
         "description": "Earn a total of 500,000 Gold by selling items to Gold Merchant Albert Jr."
       },
       {
+        "rank": 35,
         "id": "a_035",
         "nameEn": "D.G. Member",
         "hobby": "",
@@ -6506,6 +7024,7 @@
         "description": "D.G. Member Level reaches Lv. 30."
       },
       {
+        "rank": 36,
         "id": "a_036",
         "nameEn": "Puzzle Artist",
         "hobby": "",
@@ -6513,6 +7032,7 @@
         "description": "Become a Puzzle Artist."
       },
       {
+        "rank": 37,
         "id": "a_037",
         "nameEn": "Persistent Quill",
         "hobby": "",
@@ -6520,6 +7040,7 @@
         "description": "Writing Dream reaches Master."
       },
       {
+        "rank": 38,
         "id": "a_038",
         "nameEn": "Golden Music CD",
         "hobby": "",
@@ -6527,6 +7048,7 @@
         "description": "Music Dream reaches Golden Music CD."
       },
       {
+        "rank": 39,
         "id": "a_039",
         "nameEn": "Animal Neighbour",
         "hobby": "",
@@ -6534,6 +7056,7 @@
         "description": "Reach Bond Level 10 with 8 animal groups."
       },
       {
+        "rank": 40,
         "id": "a_040",
         "nameEn": "Stardust Collector",
         "hobby": "",
@@ -6541,6 +7064,7 @@
         "description": "Collect 60 Starfall Shards."
       },
       {
+        "rank": 41,
         "id": "a_041",
         "nameEn": "Animal Keeper",
         "hobby": "",
@@ -6548,6 +7072,7 @@
         "description": "Discover the favourite foods for 8 animal groups."
       },
       {
+        "rank": 42,
         "id": "a_042",
         "nameEn": "Ice Elf",
         "hobby": "",
@@ -6555,6 +7080,7 @@
         "description": "Figure Skating Dream raches Ice Elf."
       },
       {
+        "rank": 43,
         "id": "a_043",
         "nameEn": "Sea Fishing Master",
         "hobby": "",
@@ -6562,6 +7088,7 @@
         "description": "Obtain all titles in Daily Sea Fishing Events."
       },
       {
+        "rank": 44,
         "id": "a_044",
         "nameEn": "Gourmet Diplomat",
         "hobby": "",
@@ -6569,6 +7096,7 @@
         "description": "Share 100 foods to D.G. Members."
       },
       {
+        "rank": 45,
         "id": "a_045",
         "nameEn": "Onsen Mountain Insect King",
         "hobby": "",
@@ -6576,6 +7104,7 @@
         "description": "Obtain all titles in Insect Catching Events."
       },
       {
+        "rank": 46,
         "id": "a_046",
         "nameEn": "Insect Catching Party",
         "hobby": "",
@@ -6583,6 +7112,7 @@
         "description": "Share Inflatable Insect Attractor with 100 D.G. Members in total."
       },
       {
+        "rank": 47,
         "id": "a_047",
         "nameEn": "Plant Promoter",
         "hobby": "",
@@ -6590,6 +7120,7 @@
         "description": "Share Camouflage Bush 100 times in total."
       },
       {
+        "rank": 48,
         "id": "a_048",
         "nameEn": "Rainbow Messenger",
         "hobby": "",
@@ -6597,6 +7128,7 @@
         "description": "Share Rainbow Bouquets with 50 D.G. Members in total."
       },
       {
+        "rank": 49,
         "id": "a_049",
         "nameEn": "Repair Expert",
         "hobby": "",
@@ -6604,6 +7136,7 @@
         "description": "Share Repair Kit with 100 D.G. Members in total."
       },
       {
+        "rank": 50,
         "id": "a_050",
         "nameEn": "Pop Star",
         "hobby": "",
@@ -6611,6 +7144,7 @@
         "description": "Receive 100 Home Likes in total."
       },
       {
+        "rank": 51,
         "id": "a_051",
         "nameEn": "Onsen Buddy",
         "hobby": "",
@@ -6618,6 +7152,7 @@
         "description": "Take an Onsen with friends."
       },
       {
+        "rank": 52,
         "id": "a_052",
         "nameEn": "Beneath the Meteor Shower",
         "hobby": "",
@@ -6625,6 +7160,7 @@
         "description": "Make a wish under the meteor with friends."
       },
       {
+        "rank": 53,
         "id": "a_053",
         "nameEn": "???",
         "hobby": "",
@@ -6632,6 +7168,7 @@
         "description": "A thousand readers see a thousand different Astralis."
       },
       {
+        "rank": 54,
         "id": "a_054",
         "nameEn": "???",
         "hobby": "",
@@ -6639,6 +7176,7 @@
         "description": "These books are both bestsellers!"
       },
       {
+        "rank": 55,
         "id": "a_055",
         "nameEn": "???",
         "hobby": "",
@@ -6646,6 +7184,7 @@
         "description": "The bookshelves at home are nearly full!"
       },
       {
+        "rank": 56,
         "id": "a_056",
         "nameEn": "Romantic Skater",
         "hobby": ".",
