@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-04-16T15:32:58.834Z"
+    "last_sync": "2026-04-17T03:32:57.268Z"
   },
   "season_config": [
     {
@@ -7454,7 +7454,7 @@
         {
           "Date": "2026-04-21T00:00:00.000Z",
           "Day": "Tuesday",
-          "Weather": "Clear"
+          "Weather": "Rainy"
         },
         {
           "Date": "2026-04-22T00:00:00.000Z",
@@ -7464,7 +7464,7 @@
         {
           "Date": "2026-04-23T00:00:00.000Z",
           "Day": "Thursday",
-          "Weather": ""
+          "Weather": "Meteor Shower"
         },
         {
           "Date": "2026-04-24T00:00:00.000Z",
@@ -7474,6 +7474,31 @@
         {
           "Date": "2026-04-25T00:00:00.000Z",
           "Day": "Saturday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-04-26T00:00:00.000Z",
+          "Day": "Sunday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-04-27T00:00:00.000Z",
+          "Day": "Monday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-04-28T00:00:00.000Z",
+          "Day": "Tuesday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-04-29T00:00:00.000Z",
+          "Day": "Wednesday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-04-30T00:00:00.000Z",
+          "Day": "Thursday",
           "Weather": ""
         }
       ],
@@ -8026,11 +8051,46 @@
         {
           "Timestamp": "2026-04-16T12:00:00.000Z",
           "JST Time": "1900-01-26T20:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-04-16T18:00:00.000Z",
           "JST Time": "1900-01-27T02:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-04-17T00:00:00.000Z",
+          "JST Time": "1900-01-27T08:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-04-17T06:00:00.000Z",
+          "JST Time": "1900-01-27T14:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-04-17T12:00:00.000Z",
+          "JST Time": "1900-01-27T20:00:00.000Z",
+          "Weather": "Rainy"
+        },
+        {
+          "Timestamp": "2026-04-17T18:00:00.000Z",
+          "JST Time": "1900-01-28T02:00:00.000Z",
+          "Weather": "Rainy"
+        },
+        {
+          "Timestamp": "2026-04-18T00:00:00.000Z",
+          "JST Time": "1900-01-28T08:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-04-18T06:00:00.000Z",
+          "JST Time": "1900-01-28T14:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-04-18T12:00:00.000Z",
+          "JST Time": "1900-01-28T20:00:00.000Z",
           "Weather": ""
         }
       ]
