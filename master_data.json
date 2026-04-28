@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-04-28T03:33:02.969Z"
+    "last_sync": "2026-04-28T15:32:52.081Z"
   },
   "season_config": [
     {
@@ -8381,17 +8381,17 @@
         {
           "Timestamp": "2026-04-28T18:00:00.000Z",
           "JST Time": "1900-02-08T02:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-04-29T00:00:00.000Z",
           "JST Time": "1900-02-08T08:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-04-29T06:00:00.000Z",
           "JST Time": "1900-02-08T14:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-04-29T12:00:00.000Z",
