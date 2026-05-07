@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-07T14:00:54.812Z"
+    "last_sync": "2026-05-07T14:07:59.080Z"
   },
   "season_config": [
     {
@@ -8945,7 +8945,7 @@
         {
           "Date": "2026-05-13T00:00:00.000Z",
           "Day": "Wednesday",
-          "Weather": "Clear"
+          "Weather": ""
         },
         {
           "Date": "2026-05-14T00:00:00.000Z",
