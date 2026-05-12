@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-12T15:32:52.527Z"
+    "last_sync": "2026-05-12T23:07:22.596Z"
   },
   "season_config": [
     {
@@ -5307,7 +5307,7 @@
         "name_en": "Fruit Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Any Fruit\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": 1000,
         "sell_value_base": 360,
         "energy_gained": 30,
@@ -5321,7 +5321,7 @@
         "name_en": "Apple Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Apple\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": "",
         "sell_value_base": 390,
         "energy_gained": 30,
@@ -5335,7 +5335,7 @@
         "name_en": "Mandarin Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Mandarin\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": "",
         "sell_value_base": 360,
         "energy_gained": 30,
@@ -5349,7 +5349,7 @@
         "name_en": "Blueberry Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Blueberry\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": "",
         "sell_value_base": 360,
         "energy_gained": 30,
@@ -5363,7 +5363,7 @@
         "name_en": "RaspberryVerbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Raspberry\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": "",
         "sell_value_base": 380,
         "energy_gained": 30,
@@ -5377,7 +5377,7 @@
         "name_en": "Strawberry Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Strawberry\n1x Lemon Verbena\n1x Egg\n1x Butte",
         "recipe_price": "",
         "sell_value_base": 710,
         "energy_gained": 55,
@@ -5391,7 +5391,7 @@
         "name_en": "Grape Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Grape\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": "",
         "sell_value_base": 810,
         "energy_gained": 60,
@@ -5405,7 +5405,7 @@
         "name_en": "Pineapple Verbena Pie",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Pineapple\n1x Lemon Verbena\n1x Egg\n1x Butter",
         "recipe_price": "",
         "sell_value_base": 380,
         "energy_gained": 30,
@@ -5419,7 +5419,7 @@
         "name_en": "Brink Mushroom Patty",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "2x Any Mushroom\n1x Brick Patty\n1x Wheat",
         "recipe_price": 1000,
         "sell_value_base": 450,
         "energy_gained": 40,
@@ -5433,7 +5433,7 @@
         "name_en": "Brink Oyster Mushroom Patty",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "2x Oyster Mushroom\n1x Brick Patty\n1x Wheat",
         "recipe_price": "",
         "sell_value_base": 450,
         "energy_gained": 40,
@@ -5447,7 +5447,7 @@
         "name_en": "Brink Shiitake Patty",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "2x Shiitake Mushroom\n1x Brick Patty\n1x Wheat",
         "recipe_price": "",
         "sell_value_base": 450,
         "energy_gained": 40,
@@ -5461,7 +5461,7 @@
         "name_en": "Brink Button Mushroom Patty",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "2x Button Mushroom\n1x Brick Patty\n1x Wheat",
         "recipe_price": "",
         "sell_value_base": 450,
         "energy_gained": 40,
@@ -5475,7 +5475,7 @@
         "name_en": "Brink Penny Bun Patty",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "2x Penny Bun Mushroom\n1x Brick Patty\n1x Wheat",
         "recipe_price": "",
         "sell_value_base": 450,
         "energy_gained": 40,
@@ -5489,7 +5489,7 @@
         "name_en": "Brink Black Truffle Patty",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "2x Black Truffle Mushroom\n1x Brick Patty\n1x Wheat",
         "recipe_price": "",
         "sell_value_base": 780,
         "energy_gained": 55,
@@ -5503,7 +5503,7 @@
         "name_en": "Brink Fun Combo Set",
         "level_req": 1,
         "activity": "Modular Street",
-        "ingredients": "",
+        "ingredients": "1x Any Brick Patty Burger\n1x Any Verbena Pie\n1x Any Shaved Ice",
         "recipe_price": 1500,
         "sell_value_base": 1070,
         "energy_gained": 35,
@@ -5610,7 +5610,7 @@
         "name_en": "🍫 Cacao",
         "level_req": 12,
         "activity": "Daily",
-        "growth_time": "",
+        "growth_time": "5 hours",
         "seed_purchase": 110,
         "seed_sell": "",
         "sell_value_base": "",
@@ -5623,7 +5623,7 @@
         "name_en": "🍵 Tea Tree",
         "level_req": 11,
         "activity": "Daily",
-        "growth_time": "",
+        "growth_time": "45 min",
         "seed_purchase": 25,
         "seed_sell": "",
         "sell_value_base": "",
@@ -5636,7 +5636,7 @@
         "name_en": "🥑 Avocado",
         "level_req": 13,
         "activity": "Daily",
-        "growth_time": "",
+        "growth_time": "14 hours",
         "seed_purchase": 180,
         "seed_sell": "",
         "sell_value_base": "",
@@ -5869,12 +5869,12 @@
         "name_en": "Cranesbill",
         "level_req": 13,
         "activity": "Daily",
-        "growth_time": "",
+        "growth_time": "3 days",
         "seed_purchase": "",
         "seed_sell": "",
         "sell_value_base": 0,
         "fashionwave_value": "",
-        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Green, Blue, Sunglow, Selene",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Green, Blue, Sunglow, Selene",
         "is_active": ""
       },
       {
@@ -5883,12 +5883,12 @@
         "name_en": "Hyacinth",
         "level_req": 11,
         "activity": "Daily",
-        "growth_time": "",
+        "growth_time": "3 days",
         "seed_purchase": "",
         "seed_sell": "",
         "sell_value_base": 0,
         "fashionwave_value": "",
-        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Green, Blue, Sunglow, Selene",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Selene",
         "is_active": ""
       },
       {
@@ -5897,12 +5897,12 @@
         "name_en": "Moth Orchid",
         "level_req": 12,
         "activity": "Daily",
-        "growth_time": "",
+        "growth_time": "3 days",
         "seed_purchase": "",
         "seed_sell": "",
         "sell_value_base": 0,
         "fashionwave_value": "",
-        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Green, Blue, Sunglow, Selene",
+        "available_colors": "Red, White, Orange, Pink, Black, Peach, Purple, Blue, Sunglow, Selene",
         "is_active": ""
       },
       {
@@ -9032,6 +9032,14 @@
         },
         {
           "Timestamp": "2026-05-13T18:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-05-14T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T06:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -10290,6 +10298,14 @@
         {
           "Timestamp": "2026-05-13T18:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T06:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -11546,6 +11562,14 @@
         },
         {
           "Timestamp": "2026-05-13T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T06:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -12804,6 +12828,14 @@
         {
           "Timestamp": "2026-05-13T18:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T06:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -14060,6 +14092,14 @@
         },
         {
           "Timestamp": "2026-05-13T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T06:00:00.000Z",
           "Weather": ""
         }
       ]
