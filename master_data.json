@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-12T03:32:51.684Z"
+    "last_sync": "2026-05-12T15:32:52.527Z"
   },
   "season_config": [
     {
@@ -15,6 +15,12 @@
       "season": "Spring",
       "start_date": "2026-03-24T00:00:00.000Z",
       "end_date": "2026-05-02T00:00:00.000Z"
+    },
+    {
+      "display name": "Modular Streets",
+      "season": "Summer",
+      "start_date": "2026-05-09T00:00:00.000Z",
+      "end_date": "2026-06-19T00:00:00.000Z"
     }
   ],
   "collections": {
@@ -501,7 +507,7 @@
       },
       {
         "rank": 31,
-        "id": "f_079",
+        "id": "f_082",
         "name_en": "Mussel",
         "level_req": 4,
         "location": "Suburban Lake",
@@ -1253,7 +1259,7 @@
       },
       {
         "rank": 78,
-        "id": "f_077",
+        "id": "f_084",
         "name_en": "Wels Catfish",
         "level_req": 10,
         "location": "Meadow Lake",
@@ -1522,6 +1528,86 @@
         "fashionwave_value": 35,
         "is_active": "",
         "notes": ""
+      },
+      {
+        "rank": 95,
+        "id": "f_095",
+        "name_en": "Blue Brick Clownfish",
+        "level_req": 1,
+        "location": "East Sea",
+        "type": "Fish",
+        "shadow": "S",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 100,
+        "fashionwave_value": 20,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 96,
+        "id": "f_096",
+        "name_en": "Green Brick Clownfish",
+        "level_req": 1,
+        "location": "East Sea",
+        "type": "Fish",
+        "shadow": "S",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 100,
+        "fashionwave_value": 20,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 97,
+        "id": "f_097",
+        "name_en": "Purple Brick Clownfish",
+        "level_req": 1,
+        "location": "East Sea",
+        "type": "Fish",
+        "shadow": "S",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 100,
+        "fashionwave_value": 20,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 98,
+        "id": "f_098",
+        "name_en": "Colorful Brick Clownfish",
+        "level_req": 1,
+        "location": "East Sea",
+        "type": "Fish",
+        "shadow": "S",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 100,
+        "fashionwave_value": 20,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 99,
+        "id": "f_099",
+        "name_en": "Red Brick Clownfish",
+        "level_req": 1,
+        "location": "East Sea",
+        "type": "Fish",
+        "shadow": "S",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 150,
+        "fashionwave_value": 30,
+        "is_active": "",
+        "notes": "Available only during the fishing event on weekends"
       }
     ],
     "insect": [
@@ -2708,6 +2794,86 @@
         "fashionwave_value": "",
         "is_active": "",
         "notes": ""
+      },
+      {
+        "rank": 75,
+        "id": "i_075",
+        "name_en": "Pink Brick Large Red Damselfly",
+        "level_req": 1,
+        "location": "Forest (Deer Tower)",
+        "type": "Dragonfly",
+        "habitat": "Air",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 75,
+        "fashionwave_value": 25,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 76,
+        "id": "i_076",
+        "name_en": "Yellow Brick Large Red Damselfly",
+        "level_req": 1,
+        "location": "Forest (Jump Puzzle)",
+        "type": "Dragonfly",
+        "habitat": "Air",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 75,
+        "fashionwave_value": 25,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 77,
+        "id": "i_077",
+        "name_en": "Blue Brick Large Red Damselfly",
+        "level_req": 1,
+        "location": "Forest (Forest Island)",
+        "type": "Dragonfly",
+        "habitat": "Air",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 75,
+        "fashionwave_value": 25,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 78,
+        "id": "i_078",
+        "name_en": "Purple Brick Large Red Damselfly",
+        "level_req": 1,
+        "location": "Forest (Spirit Oak Pine Forest)",
+        "type": "Dragonfly",
+        "habitat": "Air",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 75,
+        "fashionwave_value": 25,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 79,
+        "id": "i_079",
+        "name_en": "Colorful Brick Large Red Damselfly",
+        "level_req": 1,
+        "location": "Brink Insect Event",
+        "type": "Dragonfly",
+        "habitat": "Air",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 110,
+        "fashionwave_value": 35,
+        "is_active": "",
+        "notes": "Can only be seen on the weekend"
       }
     ],
     "bird": [
@@ -5022,6 +5188,328 @@
         "fashionwave_value": 380,
         "is_active": "",
         "notes": ""
+      },
+      {
+        "rank": 93,
+        "id": "c_093",
+        "name_en": "Brick Bowl Fruit Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Any Fruit\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": 1000,
+        "sell_value_base": 210,
+        "energy_gained": 20,
+        "fashionwave_value": 45,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 94,
+        "id": "c_094",
+        "name_en": "Brick Bowl Apple Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Apple\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 260,
+        "energy_gained": 25,
+        "fashionwave_value": 55,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 95,
+        "id": "c_095",
+        "name_en": "Brick Bowl Mandarin Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Mandarin\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 260,
+        "energy_gained": 25,
+        "fashionwave_value": 55,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 96,
+        "id": "c_096",
+        "name_en": "Brick Bowl Blueberry Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Blueberry\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 220,
+        "energy_gained": 25,
+        "fashionwave_value": 45,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 97,
+        "id": "c_097",
+        "name_en": "Brick Bowl Raspberry Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Raspberry\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 260,
+        "energy_gained": 25,
+        "fashionwave_value": 55,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 98,
+        "id": "c_098",
+        "name_en": "Brick Bowl Strawberry Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Strawberry\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 900,
+        "energy_gained": 65,
+        "fashionwave_value": 175,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 99,
+        "id": "c_099",
+        "name_en": "Brick Bowl Grape Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Grape\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 1110,
+        "energy_gained": 80,
+        "fashionwave_value": 210,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 100,
+        "id": "c_100",
+        "name_en": "Brick Bowl Pineapple Shaved Ice",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "2x Pineapple\n1x Brick Ice\n1x Condensed Milk",
+        "recipe_price": "",
+        "sell_value_base": 260,
+        "energy_gained": 25,
+        "fashionwave_value": 55,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 101,
+        "id": "c_101",
+        "name_en": "Fruit Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": 1000,
+        "sell_value_base": 360,
+        "energy_gained": 30,
+        "fashionwave_value": 70,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 102,
+        "id": "c_102",
+        "name_en": "Apple Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 390,
+        "energy_gained": 30,
+        "fashionwave_value": 80,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 103,
+        "id": "c_103",
+        "name_en": "Mandarin Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 360,
+        "energy_gained": 30,
+        "fashionwave_value": 70,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 104,
+        "id": "c_104",
+        "name_en": "Blueberry Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 360,
+        "energy_gained": 30,
+        "fashionwave_value": 70,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 105,
+        "id": "c_105",
+        "name_en": "RaspberryVerbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 380,
+        "energy_gained": 30,
+        "fashionwave_value": 75,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 106,
+        "id": "c_106",
+        "name_en": "Strawberry Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 710,
+        "energy_gained": 55,
+        "fashionwave_value": 140,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 107,
+        "id": "c_107",
+        "name_en": "Grape Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 810,
+        "energy_gained": 60,
+        "fashionwave_value": 160,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 108,
+        "id": "c_108",
+        "name_en": "Pineapple Verbena Pie",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 380,
+        "energy_gained": 30,
+        "fashionwave_value": 75,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 109,
+        "id": "c_109",
+        "name_en": "Brink Mushroom Patty",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": 1000,
+        "sell_value_base": 450,
+        "energy_gained": 40,
+        "fashionwave_value": 90,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 110,
+        "id": "c_110",
+        "name_en": "Brink Oyster Mushroom Patty",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 450,
+        "energy_gained": 40,
+        "fashionwave_value": 90,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 111,
+        "id": "c_111",
+        "name_en": "Brink Shiitake Patty",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 450,
+        "energy_gained": 40,
+        "fashionwave_value": 90,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 112,
+        "id": "c_112",
+        "name_en": "Brink Button Mushroom Patty",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 450,
+        "energy_gained": 40,
+        "fashionwave_value": 90,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 113,
+        "id": "c_113",
+        "name_en": "Brink Penny Bun Patty",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 450,
+        "energy_gained": 40,
+        "fashionwave_value": 90,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 114,
+        "id": "c_114",
+        "name_en": "Brink Black Truffle Patty",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": "",
+        "sell_value_base": 780,
+        "energy_gained": 55,
+        "fashionwave_value": 155,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 115,
+        "id": "c_115",
+        "name_en": "Brink Fun Combo Set",
+        "level_req": 1,
+        "activity": "Modular Street",
+        "ingredients": "",
+        "recipe_price": 1500,
+        "sell_value_base": 1070,
+        "energy_gained": 35,
+        "fashionwave_value": 210,
+        "is_active": "",
+        "notes": "3 uses"
       }
     ],
     "crop": [
@@ -5219,6 +5707,19 @@
         "sell_value_base": 30,
         "fashionwave_value": 10,
         "is_active": ""
+      },
+      {
+        "rank": 16,
+        "id": "cr_16",
+        "name_en": "Lemon Verbena",
+        "level_req": 1,
+        "activity": "Modular Streets",
+        "growth_time": "15 min",
+        "seed_purchase": 10,
+        "seed_sell": 5,
+        "sell_value_base": 30,
+        "fashionwave_value": 10,
+        "is_active": ""
       }
     ],
     "flower": [
@@ -5261,7 +5762,7 @@
         "seed_sell": 30,
         "sell_value_base": 185,
         "fashionwave_value": "",
-        "available_colors": "",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Peach, Green, Selene",
         "is_active": ""
       },
       {
@@ -5373,7 +5874,7 @@
         "seed_sell": "",
         "sell_value_base": 0,
         "fashionwave_value": "",
-        "available_colors": "",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Green, Blue, Sunglow, Selene",
         "is_active": ""
       },
       {
@@ -5387,7 +5888,7 @@
         "seed_sell": "",
         "sell_value_base": 0,
         "fashionwave_value": "",
-        "available_colors": "",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Green, Blue, Sunglow, Selene",
         "is_active": ""
       },
       {
@@ -5401,7 +5902,7 @@
         "seed_sell": "",
         "sell_value_base": 0,
         "fashionwave_value": "",
-        "available_colors": "",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Green, Blue, Sunglow, Selene",
         "is_active": ""
       },
       {
@@ -5429,7 +5930,21 @@
         "seed_sell": "",
         "sell_value_base": "",
         "fashionwave_value": "",
-        "available_colors": "",
+        "available_colors": "Red, Yellow, White, Orange, Pink, Black, Peach, Purple, Blue, Selene",
+        "is_active": ""
+      },
+      {
+        "rank": 16,
+        "id": "fl_16",
+        "name_en": "Brickbloom",
+        "level_req": 1,
+        "activity": "Modular Streets",
+        "growth_time": "",
+        "seed_purchase": "",
+        "seed_sell": "",
+        "sell_value_base": "",
+        "fashionwave_value": "",
+        "available_colors": "Red, Yellow, White",
         "is_active": ""
       }
     ],
@@ -8509,10 +9024,14 @@
         },
         {
           "Timestamp": "2026-05-13T06:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-13T12:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-05-13T18:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -9767,6 +10286,10 @@
         {
           "Timestamp": "2026-05-13T12:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-13T18:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -11019,6 +11542,10 @@
         },
         {
           "Timestamp": "2026-05-13T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-13T18:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -12273,6 +12800,10 @@
         {
           "Timestamp": "2026-05-13T12:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-13T18:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -13525,6 +14056,10 @@
         },
         {
           "Timestamp": "2026-05-13T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-13T18:00:00.000Z",
           "Weather": ""
         }
       ]
