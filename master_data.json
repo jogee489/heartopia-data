@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-14T03:32:54.861Z"
+    "last_sync": "2026-05-14T15:32:52.527Z"
   },
   "season_config": [
     {
@@ -8114,12 +8114,12 @@
         {
           "Date": "2026-05-20T00:00:00.000Z",
           "Day": "Wednesday",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Date": "2026-05-21T00:00:00.000Z",
           "Day": "Thursday",
-          "Weather": ""
+          "Weather": "Rainy"
         },
         {
           "Date": "2026-05-22T00:00:00.000Z",
@@ -9036,10 +9036,38 @@
         },
         {
           "Timestamp": "2026-05-14T00:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-14T06:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-05-14T12:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-05-14T18:00:00.000Z",
+          "Weather": "Meteor Shower"
+        },
+        {
+          "Timestamp": "2026-05-15T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T00:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -10306,6 +10334,34 @@
         {
           "Timestamp": "2026-05-14T06:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T00:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -11570,6 +11626,34 @@
         },
         {
           "Timestamp": "2026-05-14T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T00:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -12836,6 +12920,34 @@
         {
           "Timestamp": "2026-05-14T06:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T00:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -14100,6 +14212,34 @@
         },
         {
           "Timestamp": "2026-05-14T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-14T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-15T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T00:00:00.000Z",
           "Weather": ""
         }
       ]
