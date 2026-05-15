@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-15T03:32:50.299Z"
+    "last_sync": "2026-05-15T15:32:59.003Z"
   },
   "season_config": [
     {
@@ -9052,22 +9052,42 @@
         },
         {
           "Timestamp": "2026-05-15T00:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-15T06:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-15T12:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-15T18:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-16T00:00:00.000Z",
+          "Weather": "Rainy"
+        },
+        {
+          "Timestamp": "2026-05-16T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T06:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -10362,6 +10382,26 @@
         {
           "Timestamp": "2026-05-16T00:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T06:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -11654,6 +11694,26 @@
         },
         {
           "Timestamp": "2026-05-16T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T06:00:00.000Z",
           "Weather": ""
         }
       ]
@@ -12948,6 +13008,26 @@
         {
           "Timestamp": "2026-05-16T00:00:00.000Z",
           "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T06:00:00.000Z",
+          "Weather": ""
         }
       ]
     },
@@ -14240,6 +14320,26 @@
         },
         {
           "Timestamp": "2026-05-16T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-16T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-17T06:00:00.000Z",
           "Weather": ""
         }
       ]
