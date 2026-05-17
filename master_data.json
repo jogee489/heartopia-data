@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-17T07:14:49.491Z"
+    "last_sync": "2026-05-17T14:33:01.267Z"
   },
   "season_config": [
     {
@@ -7104,7 +7104,7 @@
         "id": "r-001",
         "nameEn": "Apple",
         "location": "Home",
-        "type": "",
+        "type": "berry",
         "activity": "Daily",
         "base_sell_price": "28",
         "energy_gain": 8
@@ -7114,7 +7114,7 @@
         "id": "r-002",
         "nameEn": "Bamboo",
         "location": "Bamboo",
-        "type": "",
+        "type": "Wood",
         "activity": "Daily",
         "base_sell_price": 7,
         "energy_gain": ""
@@ -7124,7 +7124,7 @@
         "id": "r-003",
         "nameEn": "Bizarre Button Mushroom (Green)",
         "location": "Flower Field",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7134,7 +7134,7 @@
         "id": "r-004",
         "nameEn": "Bizarre Button Mushroom (Pink)",
         "location": "Flower Field",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7144,7 +7144,7 @@
         "id": "r-005",
         "nameEn": "Bizarre Oyster Mushroom (Orange)",
         "location": "Onsen Mountain",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7154,7 +7154,7 @@
         "id": "r-006",
         "nameEn": "Bizarre Oyster Mushroom (Pink)",
         "location": "Onsen Mountain",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7164,7 +7164,7 @@
         "id": "r-007",
         "nameEn": "Bizarre Oyster Mushroom (Purple)",
         "location": "Onsen Mountain",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7174,7 +7174,7 @@
         "id": "r-008",
         "nameEn": "Bizarre Shiitake (Blue)",
         "location": "Fishing Village",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7184,7 +7184,7 @@
         "id": "r-009",
         "nameEn": "Bizarre Shiitake (Red)",
         "location": "Fishing Village",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7194,7 +7194,7 @@
         "id": "r-010",
         "nameEn": "Bizzare Black Truffle (White)",
         "location": "",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 0,
         "energy_gain": ""
@@ -7204,7 +7204,7 @@
         "id": "r-011",
         "nameEn": "Bizzare Button Mushroom (Blue)",
         "location": "Flower Field",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7214,7 +7214,7 @@
         "id": "r-012",
         "nameEn": "Bizzare Penny Bun (Pink)",
         "location": "Forest",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7224,7 +7224,7 @@
         "id": "r-013",
         "nameEn": "Bizzare Penny Bun (Purple)",
         "location": "Forest",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7234,7 +7234,7 @@
         "id": "r-014",
         "nameEn": "Bizzare Penny Bun (Red)",
         "location": "Forest",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7244,7 +7244,7 @@
         "id": "r-015",
         "nameEn": "Bizzare Shiitake (Black)",
         "location": "Fishing Village",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7254,7 +7254,7 @@
         "id": "r-016",
         "nameEn": "Black Truffle",
         "location": "Forest (Forest Island)",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 99,
         "energy_gain": 25
@@ -7264,7 +7264,7 @@
         "id": "r-017",
         "nameEn": "Blueberry",
         "location": "Home",
-        "type": "",
+        "type": "berry",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7274,7 +7274,7 @@
         "id": "r-018",
         "nameEn": "Branch",
         "location": "Bushes",
-        "type": "",
+        "type": "Wood",
         "activity": "Daily",
         "base_sell_price": 5,
         "energy_gain": ""
@@ -7284,7 +7284,7 @@
         "id": "r-019",
         "nameEn": "Button Mushroom",
         "location": "Flower Field",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7294,7 +7294,7 @@
         "id": "r-020",
         "nameEn": "Flawless Fluorite",
         "location": "Fluorite Mine",
-        "type": "",
+        "type": "Ore",
         "activity": "Daily",
         "base_sell_price": 150,
         "energy_gain": ""
@@ -7304,7 +7304,7 @@
         "id": "r-021",
         "nameEn": "Mandarin",
         "location": "Home",
-        "type": "",
+        "type": "berry",
         "activity": "Daily",
         "base_sell_price": 28,
         "energy_gain": 8
@@ -7314,7 +7314,7 @@
         "id": "r-022",
         "nameEn": "Matsutake",
         "location": "Forest (Spirit Oak Pine)",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 0,
         "energy_gain": 5
@@ -7324,7 +7324,7 @@
         "id": "r-023",
         "nameEn": "Ore",
         "location": "Home",
-        "type": "",
+        "type": "Ore",
         "activity": "Daily",
         "base_sell_price": 14,
         "energy_gain": 5
@@ -7334,7 +7334,7 @@
         "id": "r-024",
         "nameEn": "Oyster Mushroom",
         "location": "Onsen Mountain",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7344,7 +7344,7 @@
         "id": "r-025",
         "nameEn": "Penny Bun",
         "location": "Forest",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7354,7 +7354,7 @@
         "id": "r-026",
         "nameEn": "Quality Timber",
         "location": "Tree",
-        "type": "",
+        "type": "Wood",
         "activity": "Daily",
         "base_sell_price": 12,
         "energy_gain": ""
@@ -7364,7 +7364,7 @@
         "id": "r-027",
         "nameEn": "Rare Timber",
         "location": "Gigantic Tree in the Suburb",
-        "type": "",
+        "type": "Wood",
         "activity": "Daily",
         "base_sell_price": 50,
         "energy_gain": ""
@@ -7374,7 +7374,7 @@
         "id": "r-028",
         "nameEn": "Raspberry",
         "location": "Home",
-        "type": "",
+        "type": "berry",
         "activity": "Daily",
         "base_sell_price": 26,
         "energy_gain": 7
@@ -7384,7 +7384,7 @@
         "id": "r-029",
         "nameEn": "Roaming Oak Timber",
         "location": "Roaming Oak-Oak",
-        "type": "",
+        "type": "Wood",
         "activity": "Daily",
         "base_sell_price": 150,
         "energy_gain": ""
@@ -7394,7 +7394,7 @@
         "id": "r-030",
         "nameEn": "Shiitake",
         "location": "Fishing Village",
-        "type": "",
+        "type": "mushroom",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7404,7 +7404,7 @@
         "id": "r-031",
         "nameEn": "Starfall Shard",
         "location": "Meteor Shower (Meteorite Ore)",
-        "type": "",
+        "type": "Ore",
         "activity": "Daily",
         "base_sell_price": 150,
         "energy_gain": ""
@@ -7414,7 +7414,7 @@
         "id": "r-032",
         "nameEn": "Stone",
         "location": "Home",
-        "type": "",
+        "type": "Ore",
         "activity": "Daily",
         "base_sell_price": 8,
         "energy_gain": ""
@@ -7424,7 +7424,7 @@
         "id": "r-033",
         "nameEn": "Timber",
         "location": "Tree",
-        "type": "",
+        "type": "Wood",
         "activity": "Daily",
         "base_sell_price": 6,
         "energy_gain": ""
