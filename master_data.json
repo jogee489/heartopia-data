@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-16T23:14:51.679Z"
+    "last_sync": "2026-05-17T07:14:49.491Z"
   },
   "season_config": [
     {
@@ -31,7 +31,7 @@
         "name_en": "European Perch",
         "level_req": 1,
         "location": "River",
-        "type": "",
+        "type": "Fish",
         "shadow": "M",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -63,7 +63,7 @@
         "name_en": "Common Chub",
         "level_req": 1,
         "location": "Lake",
-        "type": "",
+        "type": "Fish",
         "shadow": "M",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -127,7 +127,7 @@
         "name_en": "Minnow",
         "level_req": 1,
         "location": "Tranquil River",
-        "type": "",
+        "type": "Fish",
         "shadow": "S",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -239,7 +239,7 @@
         "name_en": "Oriental Shrimp",
         "level_req": 1,
         "location": "River",
-        "type": "",
+        "type": "Shrimp",
         "shadow": "S",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -303,7 +303,7 @@
         "name_en": "Beltfish",
         "level_req": 1,
         "location": "Zephyr Sea",
-        "type": "",
+        "type": "Eel",
         "shadow": "L",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -319,7 +319,7 @@
         "name_en": "Common Prawn",
         "level_req": 1,
         "location": "East Sea",
-        "type": "",
+        "type": "Shrimp",
         "shadow": "S",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -863,7 +863,7 @@
         "name_en": "European Lobster",
         "level_req": 5,
         "location": "Zephyr Sea",
-        "type": "",
+        "type": "Lobster",
         "shadow": "M",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -879,7 +879,7 @@
         "name_en": "European Flying Squid",
         "level_req": 5,
         "location": "Sea Fishing",
-        "type": "",
+        "type": "Octopus",
         "shadow": "Gold",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -1071,7 +1071,7 @@
         "name_en": "European Eel",
         "level_req": 7,
         "location": "Old Sea",
-        "type": "",
+        "type": "Eel",
         "shadow": "M",
         "activity": "Daily",
         "weather": "🌈",
@@ -1103,7 +1103,7 @@
         "name_en": "Blue European Crayfish",
         "level_req": 8,
         "location": "Forest Lake",
-        "type": "",
+        "type": "Crayfish",
         "shadow": "S",
         "activity": "Daily",
         "weather": "☀️ 🌧️ 🌈",
@@ -1135,7 +1135,7 @@
         "name_en": "King Crab",
         "level_req": 8,
         "location": "Whale Sea",
-        "type": "",
+        "type": "Crab",
         "shadow": "L",
         "activity": "Daily",
         "weather": "🌈",
@@ -1327,7 +1327,7 @@
         "name_en": "Golden King Crab",
         "level_req": 8,
         "location": "Sea Fishing",
-        "type": "",
+        "type": "Crab",
         "shadow": "Gold",
         "activity": "Daily",
         "weather": "🌈",
@@ -1580,7 +1580,7 @@
       {
         "rank": 98,
         "id": "f_098",
-        "name_en": "Colorful Brick Clownfish",
+        "name_en": "Red Brick Clownfish",
         "level_req": 1,
         "location": "East Sea",
         "type": "Fish",
@@ -1596,9 +1596,9 @@
       {
         "rank": 99,
         "id": "f_099",
-        "name_en": "Red Brick Clownfish",
+        "name_en": "Colorful Brick Clownfish",
         "level_req": 1,
-        "location": "East Sea",
+        "location": "Special Brick Fish Event",
         "type": "Fish",
         "shadow": "S",
         "activity": "Modular Streets",
@@ -3896,6 +3896,76 @@
         "time_of_day": "🌅 ☀️ 🌇 🌙",
         "sell_value_base": "",
         "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 74,
+        "id": "b_074",
+        "name_en": "Pink Brick Sparrow",
+        "level_req": 1,
+        "location": "Onsen Mountain (Stone Cliff)",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 10,
+        "fashionwave_value": 5,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 75,
+        "id": "b_075",
+        "name_en": "Blue Brick Sparrow",
+        "level_req": 1,
+        "location": "Onsen Mountain (Onsen)",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 10,
+        "fashionwave_value": 5,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 76,
+        "id": "b_076",
+        "name_en": "Green Brick Sparrow",
+        "level_req": 1,
+        "location": "Onsen Mountain (Crater Lake)",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 10,
+        "fashionwave_value": 5,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 77,
+        "id": "b_077",
+        "name_en": "Purple Brick Sparrow",
+        "level_req": 1,
+        "location": "Onsen Mountain (Ruins)",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 10,
+        "fashionwave_value": 5,
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 78,
+        "id": "b_078",
+        "name_en": "Colorful Brick Sparrow",
+        "level_req": 1,
+        "location": "Special Brick Bird Event",
+        "activity": "Modular Streets",
+        "weather": "☀️ 🌧️ 🌈",
+        "time_of_day": "🌅 ☀️ 🌇 🌙",
+        "sell_value_base": 15,
+        "fashionwave_value": 5,
         "is_active": "",
         "notes": ""
       }
@@ -7034,6 +7104,7 @@
         "id": "r-001",
         "nameEn": "Apple",
         "location": "Home",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": "28",
         "energy_gain": 8
@@ -7043,6 +7114,7 @@
         "id": "r-002",
         "nameEn": "Bamboo",
         "location": "Bamboo",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 7,
         "energy_gain": ""
@@ -7052,6 +7124,7 @@
         "id": "r-003",
         "nameEn": "Bizarre Button Mushroom (Green)",
         "location": "Flower Field",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7061,6 +7134,7 @@
         "id": "r-004",
         "nameEn": "Bizarre Button Mushroom (Pink)",
         "location": "Flower Field",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7070,6 +7144,7 @@
         "id": "r-005",
         "nameEn": "Bizarre Oyster Mushroom (Orange)",
         "location": "Onsen Mountain",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7079,6 +7154,7 @@
         "id": "r-006",
         "nameEn": "Bizarre Oyster Mushroom (Pink)",
         "location": "Onsen Mountain",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7088,6 +7164,7 @@
         "id": "r-007",
         "nameEn": "Bizarre Oyster Mushroom (Purple)",
         "location": "Onsen Mountain",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7097,6 +7174,7 @@
         "id": "r-008",
         "nameEn": "Bizarre Shiitake (Blue)",
         "location": "Fishing Village",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7106,6 +7184,7 @@
         "id": "r-009",
         "nameEn": "Bizarre Shiitake (Red)",
         "location": "Fishing Village",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7115,6 +7194,7 @@
         "id": "r-010",
         "nameEn": "Bizzare Black Truffle (White)",
         "location": "",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 0,
         "energy_gain": ""
@@ -7124,6 +7204,7 @@
         "id": "r-011",
         "nameEn": "Bizzare Button Mushroom (Blue)",
         "location": "Flower Field",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7133,6 +7214,7 @@
         "id": "r-012",
         "nameEn": "Bizzare Penny Bun (Pink)",
         "location": "Forest",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7142,6 +7224,7 @@
         "id": "r-013",
         "nameEn": "Bizzare Penny Bun (Purple)",
         "location": "Forest",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7151,6 +7234,7 @@
         "id": "r-014",
         "nameEn": "Bizzare Penny Bun (Red)",
         "location": "Forest",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7160,6 +7244,7 @@
         "id": "r-015",
         "nameEn": "Bizzare Shiitake (Black)",
         "location": "Fishing Village",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7169,6 +7254,7 @@
         "id": "r-016",
         "nameEn": "Black Truffle",
         "location": "Forest (Forest Island)",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 99,
         "energy_gain": 25
@@ -7178,6 +7264,7 @@
         "id": "r-017",
         "nameEn": "Blueberry",
         "location": "Home",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7187,6 +7274,7 @@
         "id": "r-018",
         "nameEn": "Branch",
         "location": "Bushes",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 5,
         "energy_gain": ""
@@ -7196,6 +7284,7 @@
         "id": "r-019",
         "nameEn": "Button Mushroom",
         "location": "Flower Field",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7205,6 +7294,7 @@
         "id": "r-020",
         "nameEn": "Flawless Fluorite",
         "location": "Fluorite Mine",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 150,
         "energy_gain": ""
@@ -7214,6 +7304,7 @@
         "id": "r-021",
         "nameEn": "Mandarin",
         "location": "Home",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 28,
         "energy_gain": 8
@@ -7223,6 +7314,7 @@
         "id": "r-022",
         "nameEn": "Matsutake",
         "location": "Forest (Spirit Oak Pine)",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 0,
         "energy_gain": 5
@@ -7232,6 +7324,7 @@
         "id": "r-023",
         "nameEn": "Ore",
         "location": "Home",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 14,
         "energy_gain": 5
@@ -7241,6 +7334,7 @@
         "id": "r-024",
         "nameEn": "Oyster Mushroom",
         "location": "Onsen Mountain",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": ""
@@ -7250,6 +7344,7 @@
         "id": "r-025",
         "nameEn": "Penny Bun",
         "location": "Forest",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7259,6 +7354,7 @@
         "id": "r-026",
         "nameEn": "Quality Timber",
         "location": "Tree",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 12,
         "energy_gain": ""
@@ -7268,6 +7364,7 @@
         "id": "r-027",
         "nameEn": "Rare Timber",
         "location": "Gigantic Tree in the Suburb",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 50,
         "energy_gain": ""
@@ -7277,6 +7374,7 @@
         "id": "r-028",
         "nameEn": "Raspberry",
         "location": "Home",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 26,
         "energy_gain": 7
@@ -7286,6 +7384,7 @@
         "id": "r-029",
         "nameEn": "Roaming Oak Timber",
         "location": "Roaming Oak-Oak",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 150,
         "energy_gain": ""
@@ -7295,6 +7394,7 @@
         "id": "r-030",
         "nameEn": "Shiitake",
         "location": "Fishing Village",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 16,
         "energy_gain": 5
@@ -7304,6 +7404,7 @@
         "id": "r-031",
         "nameEn": "Starfall Shard",
         "location": "Meteor Shower (Meteorite Ore)",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 150,
         "energy_gain": ""
@@ -7313,6 +7414,7 @@
         "id": "r-032",
         "nameEn": "Stone",
         "location": "Home",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 8,
         "energy_gain": ""
@@ -7322,6 +7424,7 @@
         "id": "r-033",
         "nameEn": "Timber",
         "location": "Tree",
+        "type": "",
         "activity": "Daily",
         "base_sell_price": 6,
         "energy_gain": ""
