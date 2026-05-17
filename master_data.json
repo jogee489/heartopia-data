@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-17T15:14:57.934Z"
+    "last_sync": "2026-05-17T23:14:51.553Z"
   },
   "season_config": [
     {
@@ -9227,7 +9227,7 @@
         },
         {
           "Timestamp": "2026-05-19T12:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-19T18:00:00.000Z",
