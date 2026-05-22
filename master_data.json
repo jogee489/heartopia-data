@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-22T07:14:51.626Z"
+    "last_sync": "2026-05-22T15:14:49.768Z"
   },
   "season_config": [
     {
@@ -8258,6 +8258,21 @@
           "Date": "2026-05-28T00:00:00.000Z",
           "Day": "Thursday",
           "Weather": "Rainbow"
+        },
+        {
+          "Date": "2026-05-29T00:00:00.000Z",
+          "Day": "Friday",
+          "Weather": "Rainy"
+        },
+        {
+          "Date": "2026-05-30T00:00:00.000Z",
+          "Day": "Saturday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-05-31T00:00:00.000Z",
+          "Day": "Sunday",
+          "Weather": ""
         }
       ],
       "blocks": [
@@ -9279,18 +9294,38 @@
         },
         {
           "Timestamp": "2026-05-22T18:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-23T00:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-23T06:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-05-23T12:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-05-23T18:00:00.000Z",
+          "Weather": "Clear"
+        },
+        {
+          "Timestamp": "2026-05-24T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-24T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-24T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-05-24T18:00:00.000Z",
           "Weather": ""
         }
       ]
