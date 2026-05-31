@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-05-31T07:14:48.946Z"
+    "last_sync": "2026-05-31T15:14:49.361Z"
   },
   "season_config": [
     {
@@ -4187,7 +4187,7 @@
         "name_en": "Chocolate Sauce",
         "level_req": "",
         "activity": "Daily",
-        "ingredients": "",
+        "ingredients": "Cocoa x4",
         "recipe_price": 0,
         "sell_value_base": "",
         "energy_gained": "",
@@ -4271,7 +4271,7 @@
         "name_en": "Exquisite Afternoon Tea",
         "level_req": 12,
         "activity": "Daily",
-        "ingredients": "",
+        "ingredients": "Flan x2, aromatic tea x2",
         "recipe_price": 6400,
         "sell_value_base": "",
         "energy_gained": "",
@@ -4481,7 +4481,7 @@
         "name_en": "Milkshake",
         "level_req": 11,
         "activity": "Daily",
-        "ingredients": "",
+        "ingredients": "🥛🥛 any fruit x2",
         "recipe_price": 6400,
         "sell_value_base": "",
         "energy_gained": "",
@@ -4635,7 +4635,7 @@
         "name_en": "Refreshing Green Tea",
         "level_req": 12,
         "activity": "Daily",
-        "ingredients": "",
+        "ingredients": "Tea leaves  x2, 🥛🥛",
         "recipe_price": 6400,
         "sell_value_base": "",
         "energy_gained": "",
@@ -4813,6 +4813,216 @@
       },
       {
         "rank": 61,
+        "id": "c_116",
+        "name_en": "Aromatic Tea",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "Tea leaves  x2, 🥛🥛",
+        "recipe_price": "",
+        "sell_value_base": 840,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 62,
+        "id": "c_117",
+        "name_en": "Premium milk Tea",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "Tea leaves  x2, 🥛🥛",
+        "recipe_price": "",
+        "sell_value_base": 840,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 63,
+        "id": "c_118",
+        "name_en": "Cocoa milk tea",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "Tea leaves  x2, 🥛 Cocoa",
+        "recipe_price": "",
+        "sell_value_base": 840,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 66,
+        "id": "c_120",
+        "name_en": "Blueberry Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🔵🔵",
+        "recipe_price": "",
+        "sell_value_base": 440,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 67,
+        "id": "c_121",
+        "name_en": "Raspberry Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🔴🔴",
+        "recipe_price": "",
+        "sell_value_base": 440,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 68,
+        "id": "c_122",
+        "name_en": "Apple Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🍎🍎",
+        "recipe_price": "",
+        "sell_value_base": 440,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 69,
+        "id": "c_123",
+        "name_en": "Orange Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🍊🍊",
+        "recipe_price": "",
+        "sell_value_base": 450,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 70,
+        "id": "c_124",
+        "name_en": "Pineapple Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🍍🍍",
+        "recipe_price": "",
+        "sell_value_base": 440,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 71,
+        "id": "c_125",
+        "name_en": "Strawberry Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🍓🍓",
+        "recipe_price": "",
+        "sell_value_base": 1090,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 72,
+        "id": "c_126",
+        "name_en": "Grape Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛🍇🍇",
+        "recipe_price": "",
+        "sell_value_base": 1300,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 73,
+        "id": "c_127",
+        "name_en": "Matcha Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛matcha x2",
+        "recipe_price": "",
+        "sell_value_base": 840,
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 74,
+        "id": "c_128",
+        "name_en": "Cocoa Milkshake",
+        "level_req": 11,
+        "activity": "Daily",
+        "ingredients": "🥛🥛 Cocoa x2",
+        "recipe_price": "",
+        "sell_value_base": "",
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 76,
+        "id": "c_129",
+        "name_en": "Matcha with milk",
+        "level_req": 12,
+        "activity": "Daily",
+        "ingredients": "Tea leaves  x2, 🥛 matcha",
+        "recipe_price": "",
+        "sell_value_base": "",
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 77,
+        "id": "c_130",
+        "name_en": "Chamomile tea",
+        "level_req": 12,
+        "activity": "Daily",
+        "ingredients": "Tea leaves  x2, Chamomile x2",
+        "recipe_price": "",
+        "sell_value_base": "",
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 78,
+        "id": "c_131",
+        "name_en": "Rose tea",
+        "level_req": 12,
+        "activity": "Daily",
+        "ingredients": "Tea leaves  x2, Rose x2",
+        "recipe_price": "",
+        "sell_value_base": "",
+        "energy_gained": "",
+        "fashionwave_value": "",
+        "is_active": "",
+        "notes": ""
+      },
+      {
+        "rank": 100,
         "id": "c_061",
         "name_en": "Apple Frosted Pancake",
         "level_req": 1,
@@ -4826,7 +5036,7 @@
         "notes": ""
       },
       {
-        "rank": 62,
+        "rank": 101,
         "id": "c_062",
         "name_en": "Aurora Banquet",
         "level_req": 1,
@@ -4840,7 +5050,7 @@
         "notes": ""
       },
       {
-        "rank": 63,
+        "rank": 102,
         "id": "c_063",
         "name_en": "Blueberry Frosted Pancake",
         "level_req": 1,
@@ -4854,7 +5064,7 @@
         "notes": ""
       },
       {
-        "rank": 64,
+        "rank": 103,
         "id": "c_064",
         "name_en": "Creamy White Radish Soup",
         "level_req": 1,
@@ -4868,7 +5078,7 @@
         "notes": ""
       },
       {
-        "rank": 65,
+        "rank": 104,
         "id": "c_065",
         "name_en": "Iced Coffee",
         "level_req": 1,
@@ -4882,7 +5092,7 @@
         "notes": ""
       },
       {
-        "rank": 66,
+        "rank": 105,
         "id": "c_066",
         "name_en": "Iced Latte",
         "level_req": 1,
@@ -4896,7 +5106,7 @@
         "notes": ""
       },
       {
-        "rank": 67,
+        "rank": 106,
         "id": "c_067",
         "name_en": "Mandarin Frosted Pancake",
         "level_req": 1,
@@ -4910,7 +5120,7 @@
         "notes": ""
       },
       {
-        "rank": 68,
+        "rank": 107,
         "id": "c_068",
         "name_en": "Original Frosted Pancake",
         "level_req": 1,
@@ -4924,7 +5134,7 @@
         "notes": ""
       },
       {
-        "rank": 69,
+        "rank": 108,
         "id": "c_069",
         "name_en": "Raspberry Frosted Pancake",
         "level_req": 1,
@@ -4938,7 +5148,7 @@
         "notes": ""
       },
       {
-        "rank": 70,
+        "rank": 109,
         "id": "c_070",
         "name_en": "Steak w/ Mashed White Radish",
         "level_req": 1,
@@ -4952,7 +5162,7 @@
         "notes": ""
       },
       {
-        "rank": 71,
+        "rank": 110,
         "id": "c_071",
         "name_en": "Onsen Egg",
         "level_req": 1,
@@ -4966,7 +5176,7 @@
         "notes": ""
       },
       {
-        "rank": 72,
+        "rank": 111,
         "id": "c_072",
         "name_en": "Savory Popcorn Bucket",
         "level_req": 1,
@@ -4980,7 +5190,7 @@
         "notes": ""
       },
       {
-        "rank": 73,
+        "rank": 112,
         "id": "c_073",
         "name_en": "Caramel Popcorn Bucket",
         "level_req": 1,
@@ -4994,7 +5204,7 @@
         "notes": ""
       },
       {
-        "rank": 74,
+        "rank": 113,
         "id": "c_074",
         "name_en": "Salsa Wavy Potato Chips",
         "level_req": 1,
@@ -5008,7 +5218,7 @@
         "notes": ""
       },
       {
-        "rank": 75,
+        "rank": 114,
         "id": "c_075",
         "name_en": "Savory Double Combo Bucket",
         "level_req": 1,
@@ -5022,7 +5232,7 @@
         "notes": ""
       },
       {
-        "rank": 76,
+        "rank": 115,
         "id": "c_076",
         "name_en": "Sweet Double Combo Bucket",
         "level_req": 1,
@@ -5036,7 +5246,7 @@
         "notes": ""
       },
       {
-        "rank": 77,
+        "rank": 116,
         "id": "c_077",
         "name_en": "Romaine Lettuce Taco",
         "level_req": 1,
@@ -5050,7 +5260,7 @@
         "notes": ""
       },
       {
-        "rank": 78,
+        "rank": 117,
         "id": "c_078",
         "name_en": "Wild Vegetable Celtuce Taco",
         "level_req": 1,
@@ -5064,7 +5274,7 @@
         "notes": ""
       },
       {
-        "rank": 79,
+        "rank": 118,
         "id": "c_079",
         "name_en": "Wild Braken Celtuce Taco",
         "level_req": 1,
@@ -5078,7 +5288,7 @@
         "notes": ""
       },
       {
-        "rank": 80,
+        "rank": 119,
         "id": "c_080",
         "name_en": "Wild Garlic Mustard Celtuce Taco",
         "level_req": 1,
@@ -5092,7 +5302,7 @@
         "notes": ""
       },
       {
-        "rank": 81,
+        "rank": 120,
         "id": "c_081",
         "name_en": "Wild Burdock Celtuce Taco",
         "level_req": 1,
@@ -5106,7 +5316,7 @@
         "notes": ""
       },
       {
-        "rank": 82,
+        "rank": 121,
         "id": "c_082",
         "name_en": "Wild Mustard Greens Celtuce Taco",
         "level_req": 1,
@@ -5120,7 +5330,7 @@
         "notes": ""
       },
       {
-        "rank": 83,
+        "rank": 122,
         "id": "c_083",
         "name_en": "Springday Fruit Black Tea",
         "level_req": 1,
@@ -5134,7 +5344,7 @@
         "notes": ""
       },
       {
-        "rank": 84,
+        "rank": 123,
         "id": "c_084",
         "name_en": "Springday Apple Black Tea",
         "level_req": 1,
@@ -5148,7 +5358,7 @@
         "notes": ""
       },
       {
-        "rank": 85,
+        "rank": 124,
         "id": "c_085",
         "name_en": "Springday Mandarin Black Tea",
         "level_req": 1,
@@ -5162,7 +5372,7 @@
         "notes": ""
       },
       {
-        "rank": 86,
+        "rank": 125,
         "id": "c_086",
         "name_en": "Springday Blueberry Black Tea",
         "level_req": 1,
@@ -5176,7 +5386,7 @@
         "notes": ""
       },
       {
-        "rank": 87,
+        "rank": 126,
         "id": "c_087",
         "name_en": "Springday Raspberry Black Tea",
         "level_req": 1,
@@ -5190,7 +5400,7 @@
         "notes": ""
       },
       {
-        "rank": 88,
+        "rank": 127,
         "id": "c_088",
         "name_en": "Springday Strawberry Black Tea",
         "level_req": 1,
@@ -5204,7 +5414,7 @@
         "notes": ""
       },
       {
-        "rank": 89,
+        "rank": 128,
         "id": "c_089",
         "name_en": "Springday Grape Black Tea",
         "level_req": 1,
@@ -5218,7 +5428,7 @@
         "notes": ""
       },
       {
-        "rank": 90,
+        "rank": 129,
         "id": "c_090",
         "name_en": "Springday Pineapple Black Tea",
         "level_req": 1,
@@ -5232,7 +5442,7 @@
         "notes": ""
       },
       {
-        "rank": 91,
+        "rank": 130,
         "id": "c_091",
         "name_en": "Colorful Movie Combo",
         "level_req": 1,
@@ -5246,7 +5456,7 @@
         "notes": ""
       },
       {
-        "rank": 92,
+        "rank": 131,
         "id": "c_092",
         "name_en": "Supreme Movie Meal",
         "level_req": 1,
@@ -5260,7 +5470,7 @@
         "notes": ""
       },
       {
-        "rank": 93,
+        "rank": 132,
         "id": "c_093",
         "name_en": "Brick Bowl Fruit Shaved Ice",
         "level_req": 1,
@@ -5274,7 +5484,7 @@
         "notes": ""
       },
       {
-        "rank": 94,
+        "rank": 133,
         "id": "c_094",
         "name_en": "Brick Bowl Apple Shaved Ice",
         "level_req": 1,
@@ -5288,7 +5498,7 @@
         "notes": ""
       },
       {
-        "rank": 95,
+        "rank": 134,
         "id": "c_095",
         "name_en": "Brick Bowl Mandarin Shaved Ice",
         "level_req": 1,
@@ -5302,7 +5512,7 @@
         "notes": ""
       },
       {
-        "rank": 96,
+        "rank": 135,
         "id": "c_096",
         "name_en": "Brick Bowl Blueberry Shaved Ice",
         "level_req": 1,
@@ -5316,7 +5526,7 @@
         "notes": ""
       },
       {
-        "rank": 97,
+        "rank": 136,
         "id": "c_097",
         "name_en": "Brick Bowl Raspberry Shaved Ice",
         "level_req": 1,
@@ -5330,7 +5540,7 @@
         "notes": ""
       },
       {
-        "rank": 98,
+        "rank": 137,
         "id": "c_098",
         "name_en": "Brick Bowl Strawberry Shaved Ice",
         "level_req": 1,
@@ -5344,7 +5554,7 @@
         "notes": ""
       },
       {
-        "rank": 99,
+        "rank": 138,
         "id": "c_099",
         "name_en": "Brick Bowl Grape Shaved Ice",
         "level_req": 1,
@@ -5358,7 +5568,7 @@
         "notes": ""
       },
       {
-        "rank": 100,
+        "rank": 139,
         "id": "c_100",
         "name_en": "Brick Bowl Pineapple Shaved Ice",
         "level_req": 1,
@@ -5372,7 +5582,7 @@
         "notes": ""
       },
       {
-        "rank": 101,
+        "rank": 140,
         "id": "c_101",
         "name_en": "Fruit Verbena Pie",
         "level_req": 1,
@@ -5386,7 +5596,7 @@
         "notes": ""
       },
       {
-        "rank": 102,
+        "rank": 141,
         "id": "c_102",
         "name_en": "Apple Verbena Pie",
         "level_req": 1,
@@ -5400,7 +5610,7 @@
         "notes": ""
       },
       {
-        "rank": 103,
+        "rank": 142,
         "id": "c_103",
         "name_en": "Mandarin Verbena Pie",
         "level_req": 1,
@@ -5414,7 +5624,7 @@
         "notes": ""
       },
       {
-        "rank": 104,
+        "rank": 143,
         "id": "c_104",
         "name_en": "Blueberry Verbena Pie",
         "level_req": 1,
@@ -5428,7 +5638,7 @@
         "notes": ""
       },
       {
-        "rank": 105,
+        "rank": 144,
         "id": "c_105",
         "name_en": "RaspberryVerbena Pie",
         "level_req": 1,
@@ -5442,7 +5652,7 @@
         "notes": ""
       },
       {
-        "rank": 106,
+        "rank": 145,
         "id": "c_106",
         "name_en": "Strawberry Verbena Pie",
         "level_req": 1,
@@ -5456,7 +5666,7 @@
         "notes": ""
       },
       {
-        "rank": 107,
+        "rank": 146,
         "id": "c_107",
         "name_en": "Grape Verbena Pie",
         "level_req": 1,
@@ -5470,7 +5680,7 @@
         "notes": ""
       },
       {
-        "rank": 108,
+        "rank": 147,
         "id": "c_108",
         "name_en": "Pineapple Verbena Pie",
         "level_req": 1,
@@ -5484,7 +5694,7 @@
         "notes": ""
       },
       {
-        "rank": 109,
+        "rank": 148,
         "id": "c_109",
         "name_en": "Brink Mushroom Patty",
         "level_req": 1,
@@ -5498,7 +5708,7 @@
         "notes": ""
       },
       {
-        "rank": 110,
+        "rank": 149,
         "id": "c_110",
         "name_en": "Brink Oyster Mushroom Patty",
         "level_req": 1,
@@ -5512,7 +5722,7 @@
         "notes": ""
       },
       {
-        "rank": 111,
+        "rank": 150,
         "id": "c_111",
         "name_en": "Brink Shiitake Patty",
         "level_req": 1,
@@ -5526,7 +5736,7 @@
         "notes": ""
       },
       {
-        "rank": 112,
+        "rank": 151,
         "id": "c_112",
         "name_en": "Brink Button Mushroom Patty",
         "level_req": 1,
@@ -5540,7 +5750,7 @@
         "notes": ""
       },
       {
-        "rank": 113,
+        "rank": 152,
         "id": "c_113",
         "name_en": "Brink Penny Bun Patty",
         "level_req": 1,
@@ -5554,7 +5764,7 @@
         "notes": ""
       },
       {
-        "rank": 114,
+        "rank": 153,
         "id": "c_114",
         "name_en": "Brink Black Truffle Patty",
         "level_req": 1,
@@ -5568,7 +5778,7 @@
         "notes": ""
       },
       {
-        "rank": 115,
+        "rank": 154,
         "id": "c_115",
         "name_en": "Brink Fun Combo Set",
         "level_req": 1,
