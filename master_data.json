@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-06-09T15:14:49.232Z"
+    "last_sync": "2026-06-09T23:14:52.875Z"
   },
   "season_config": [
     {
@@ -8562,7 +8562,7 @@
         {
           "Date": "2026-06-16T00:00:00.000Z",
           "Day": "Tuesday",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Date": "2026-06-17T00:00:00.000Z",
@@ -9921,19 +9921,19 @@
         },
         {
           "Timestamp": "2026-06-10T00:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-10T06:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-10T12:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-10T18:00:00.000Z",
-          "Weather": ""
+          "Weather": "Meteor Shower"
         },
         {
           "Timestamp": "2026-06-11T00:00:00.000Z",
