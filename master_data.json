@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-06-15T15:14:50.820Z"
+    "last_sync": "2026-06-15T23:14:50.126Z"
   },
   "season_config": [
     {
@@ -8592,12 +8592,12 @@
         {
           "Date": "2026-06-22T00:00:00.000Z",
           "Day": "Monday",
-          "Weather": ""
+          "Weather": "Meteor Shower"
         },
         {
           "Date": "2026-06-23T00:00:00.000Z",
           "Day": "Tuesday",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Date": "2026-06-24T00:00:00.000Z",
@@ -8606,6 +8606,41 @@
         },
         {
           "Date": "2026-06-25T00:00:00.000Z",
+          "Day": "Thursday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-06-26T00:00:00.000Z",
+          "Day": "Friday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-06-27T00:00:00.000Z",
+          "Day": "Saturday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-06-28T00:00:00.000Z",
+          "Day": "Sunday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-06-29T00:00:00.000Z",
+          "Day": "Monday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-06-30T00:00:00.000Z",
+          "Day": "Tuesday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-01T00:00:00.000Z",
+          "Day": "Wednesday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-02T00:00:00.000Z",
           "Day": "Thursday",
           "Weather": ""
         }
@@ -10021,19 +10056,19 @@
         },
         {
           "Timestamp": "2026-06-16T06:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-16T12:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-16T18:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-17T00:00:00.000Z",
-          "Weather": ""
+          "Weather": "Meteor Shower"
         },
         {
           "Timestamp": "2026-06-17T06:00:00.000Z",
