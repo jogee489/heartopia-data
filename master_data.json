@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_sync": "2026-06-22T23:14:56.203Z"
+    "last_sync": "2026-06-23T07:14:53.896Z"
   },
   "season_config": [
     {
@@ -8627,12 +8627,12 @@
         {
           "Date": "2026-06-29T00:00:00.000Z",
           "Day": "Monday",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Date": "2026-06-30T00:00:00.000Z",
           "Day": "Tuesday",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Date": "2026-07-01T00:00:00.000Z",
@@ -8642,6 +8642,31 @@
         {
           "Date": "2026-07-02T00:00:00.000Z",
           "Day": "Thursday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-03T00:00:00.000Z",
+          "Day": "Friday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-04T00:00:00.000Z",
+          "Day": "Saturday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-05T00:00:00.000Z",
+          "Day": "Sunday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-06T00:00:00.000Z",
+          "Day": "Monday",
+          "Weather": ""
+        },
+        {
+          "Date": "2026-07-07T00:00:00.000Z",
+          "Day": "Tuesday",
           "Weather": ""
         }
       ],
@@ -10172,19 +10197,19 @@
         },
         {
           "Timestamp": "2026-06-23T12:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-23T18:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-24T00:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-24T06:00:00.000Z",
-          "Weather": ""
+          "Weather": "Clear"
         },
         {
           "Timestamp": "2026-06-24T12:00:00.000Z",
@@ -10196,6 +10221,26 @@
         },
         {
           "Timestamp": "2026-06-25T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-06-25T06:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-06-25T12:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-06-25T18:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-06-26T00:00:00.000Z",
+          "Weather": ""
+        },
+        {
+          "Timestamp": "2026-06-26T06:00:00.000Z",
           "Weather": ""
         }
       ]
